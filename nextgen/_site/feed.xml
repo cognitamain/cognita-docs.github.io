@@ -1,30 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-06-16T16:15:46+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Add a Card Link Pop Up</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/" rel="alternate" type="text/html" title="Add a Card Link Pop Up" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/"><![CDATA[<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/activities-pop-up.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Card Link Pop Up</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>This component is great for detailing activities or any other content where you want to expand the title to see a description and images. The card component itself supports a title and an icon but when clicked, the dialogue box appears with an image and a detailed description, further more if you create multiple in the same section the dialogue box will support scrolling through the activities.</p>
-
-<figure>
-    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/activities-pop-up-settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Card Link Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-card-link-component">Using the Card link Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Icon with Pop Up</li>
-  <li>The settings box will open up, set the post count to -1</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row6. To add the content for this option, you will need to navigate to the admin area and find the icon pop up cpt</li>
-  <li>This post supports an icon, a title, an image a brief description</li>
-  <li>Add the post content you need and if necessary organise them into categories</li>
-</ol>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Card Link Pop Up]]></summary></entry><entry><title type="html">Add a Statistics Splitter</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsSplitter/" rel="alternate" type="text/html" title="Add a Statistics Splitter" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsSplitter</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsSplitter/"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/Shutta-Cognita-NextGen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/Shutta-Cognita-NextGen/" rel="alternate" type="text/html" /><updated>2022-06-17T11:03:07+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Add a Statistics Splitter</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsSplitter/" rel="alternate" type="text/html" title="Add a Statistics Splitter" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsSplitter</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddStatisticsSplitter/"><![CDATA[<figure>
     <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/statistics-no-title.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Statistics splitter</span></figcaption>
 </figure>
@@ -180,7 +154,37 @@
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
   <p>Organise the your dates into different categories to allow the user to find the dates relevant to them.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Timeline]]></summary></entry><entry><title type="html">Add a Sliding Hero Banner</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddASlidingBanner/" rel="alternate" type="text/html" title="Add a Sliding Hero Banner" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddASlidingBanner</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddASlidingBanner/"><![CDATA[<figure>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Timeline]]></summary></entry><entry><title type="html">Add a Video Hero Banner</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddAVideoBanner/" rel="alternate" type="text/html" title="Add a Video Hero Banner" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddAVideoBanner</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddAVideoBanner/"><![CDATA[<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/video_header.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Header Slider</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>A video banner is a useful tool to reduce your bounce rate as videos can engage audiences as soon as they arrive at your site. This component can be used anywhere on your page not just the header. You can use it to break up text heavy pages or offer more details by providing related video content. The video header component supports videos hosted on Youtube or Vimeo and automatic playback on mobile devices.</p>
+
+<figure>
+    <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/video_header_settings.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Video header settings</span></figcaption>
+</figure>
+
+<h2 id="adding-a-video-header-component">Adding a Video Header component.</h2>
+
+<ol>
+  <li>In the WPBakery editor of your page</li>
+  <li>Click the ‘+’ icon in the top right corner</li>
+  <li>Use the text search to find ‘Video Header’</li>
+  <li>The Video Header Settings box will open out</li>
+  <li>From here add your Vimeo or Youtube URL</li>
+  <li>Set the responsive screen sizes of the video</li>
+  <li>Click Save and the component will be added to the bottom of the page</li>
+  <li>You will need to drag the video header to the right place in the page by clicking on the further left row icon and dragging it up and down the page.</li>
+</ol>
+
+<h2 id="pro-tip">Pro Tip</h2>
+<blockquote>
+  <p>Use short videos of less than 1 minute to keep page load speed optimised.</p>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Header Slider]]></summary></entry><entry><title type="html">Add a Sliding Hero Banner</title><link href="http://localhost:4000/Shutta-Cognita-NextGen/AddASlidingBanner-copy/" rel="alternate" type="text/html" title="Add a Sliding Hero Banner" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/Shutta-Cognita-NextGen/AddASlidingBanner%20copy</id><content type="html" xml:base="http://localhost:4000/Shutta-Cognita-NextGen/AddASlidingBanner-copy/"><![CDATA[<figure>
     <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/slider-revolution.jpeg" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Header Slider</span></figcaption>
 </figure>

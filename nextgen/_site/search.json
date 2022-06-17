@@ -81,10 +81,18 @@
     } ,
   
     {
+      "title"    : "Add a Video Hero Banner",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddAVideoBanner/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Add a Sliding Hero Banner",
       "category" : "",
       "tags"     : "",
-      "url"      : "/Shutta-Cognita-NextGen/AddASlidingBanner/",
+      "url"      : "/Shutta-Cognita-NextGen/AddASlidingBanner-copy/",
       "date"     : "2022-05-20 00:00:00 +0700"
     } ,
   
