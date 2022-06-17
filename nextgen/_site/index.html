@@ -1,0 +1,551 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <!-- Begin Jekyll SEO tag v2.7.1 -->
+<title>How Can We Help? | Next Gen</title>
+<meta name="generator" content="Jekyll v3.9.1" />
+<meta property="og:title" content="How Can We Help?" />
+<meta name="author" content="James Shimell" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Knowledge base for the use of the Next Gen components on Wordpress." />
+<meta property="og:description" content="Knowledge base for the use of the Next Gen components on Wordpress." />
+<link rel="canonical" href="http://localhost:4000/Shutta-Cognita-NextGen/" />
+<meta property="og:url" content="http://localhost:4000/Shutta-Cognita-NextGen/" />
+<meta property="og:site_name" content="Next Gen" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="How Can We Help?" />
+<script type="application/ld+json">
+{"author":{"@type":"Person","name":"James Shimell"},"url":"http://localhost:4000/Shutta-Cognita-NextGen/","@type":"WebSite","headline":"How Can We Help?","description":"Knowledge base for the use of the Next Gen components on Wordpress.","name":"Next Gen","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+  <meta property="og:image" content="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/"/>
+  <link rel="stylesheet" href="/Shutta-Cognita-NextGen/assets/css/main.css">
+  <link rel="shortcut icon" type="image/png" href="/Shutta-Cognita-NextGen/assets/img/favicon.png" >
+  <link rel="alternate" type="application/rss+xml" title="Next Gen" href="/Shutta-Cognita-NextGen/feed.xml">
+  <script src="/Shutta-Cognita-NextGen/assets/js/main.js"></script>
+  
+</head>
+
+    <body>
+
+    
+        
+
+
+
+
+
+<header class="uk-background-center-center uk-background-cover" style="background-color: #0069A7; background-image: url(http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/header.jpg);">
+    <div class="uk-overlay-header" style="background: linear-gradient(-200deg, rgba(255, 255, 255, 0.3) 0%, rgba(255, 255, 255, 0.3) 53%, rgba(255, 255, 255, 0.3) 100%);">
+
+        <nav class="uk-navbar-container uk-navbar-transparent uk-dark">
+            <div class="uk-container">
+    <div data-uk-navbar>
+        <div class="uk-navbar-left">
+
+          <a class="uk-navbar-item uk-logo" href="/Shutta-Cognita-NextGen/">
+
+            
+              
+                <img class="uk-logo-inverse" src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/logo-light.svg" alt="Next Gen">
+              
+              
+                <img src="http://localhost:4000/Shutta-Cognita-NextGen/assets/posts/logo-dark.svg" alt="Next Gen">
+              
+            
+
+          </a>
+
+        </div>
+        <div class="uk-navbar-right">
+            <ul class="uk-navbar-nav uk-visible@m">
+                
+                    
+                    
+                    
+                        <li class="uk-active"><a href="/Shutta-Cognita-NextGen/" >Help</a></li>
+                    
+                
+                    
+                    
+                    
+                        <li><a href="/Shutta-Cognita-NextGen/faq/" >Faq</a></li>
+                    
+                
+            </ul>
+
+            
+
+            <a class="uk-navbar-toggle uk-hidden@m" href="#offcanvas" data-uk-navbar-toggle-icon data-uk-toggle></a>
+
+        </div>
+    </div>
+</div>
+
+        </nav>
+
+        <div class="uk-section section-hero dark" data-uk-scrollspy="cls: uk-animation-slide-bottom-small; repeat: true">
+            <div class="uk-container">
+                <h1 class="uk-heading-hero uk-text-center">How Can We Help?</h1>
+                <p class="subtitle uk-text-lead uk-text-center">Find guides and answers on how to use the Next Gen Component Library</p>
+
+                <div class="uk-article-meta uk-text-center">
+                    
+                    
+                    
+
+                </div>
+
+                
+                <div class="hero-search">
+
+                    <!-- Html Elements for Search -->
+                    <div class="uk-position-relative">
+                        <form class="uk-search uk-search-default uk-width-1-1" name="search-hero" onsubmit="return false;">
+                            <span data-uk-search-icon></span>
+                            <input id="hero-search" class="uk-search-input" type="search" placeholder="Search for answers...">
+                        </form>
+                        <ul id="hero-search-results" class="uk-position-absolute uk-width-1-1 uk-list"></ul>
+                    </div>
+
+                    <script>
+                    SimpleJekyllSearch({
+                        searchInput: document.getElementById('hero-search'),
+                        resultsContainer: document.getElementById('hero-search-results'),
+                        noResultsText: '<li>No results found</li>',
+                        searchResultTemplate: '<li><a href="{url}">{title}</a></li>',
+                        json: '/Shutta-Cognita-NextGen/search.json'
+                    });
+                    </script>
+
+                </div>
+                
+
+            </div>
+        </div>
+    </div>
+</header>
+
+    
+
+    <main aria-label="Content">
+    
+
+<script>
+function filter(tag) {
+  setActiveTag(tag);
+  showContainer(tag);
+}
+
+function setActiveTag(id) {
+  // loop through all items and remove active class
+  var items = document.getElementsByClassName('card-category');
+  for(var i=0; i < items.length; i++) {
+    items[i].classList.remove('uk-card-primary');
+    items[i].classList.add('uk-card-default');
+  }
+
+  // set the selected id's item to active
+  var item = document.getElementById(id + '-card');
+  if(item) {
+    item.classList.remove('uk-card-default');
+    item.classList.add('uk-card-primary');
+  }
+}
+
+function showContainer(id) {
+  // loop through all lists and hide them
+  var lists = document.getElementsByClassName('category-container');
+  for(var i=0; i < lists.length; i++) {
+    lists[i].classList.add('hidden');
+  }
+
+  // remove the hidden class from the list corresponding to the selected id
+  var list = document.getElementById(id + '-container');
+  var section = document.getElementById('category-section');
+  if(list) {
+    section.classList.remove('hidden');
+    list.classList.remove('hidden');
+  }
+
+}
+</script>
+
+<div class="uk-section uk-section-large uk-background-muted">
+    <div class="uk-container">
+        
+            
+                <h2 class="uk-text-center section-title section-title-primary">Browse All Topics</h2>
+            
+            <div class="uk-child-width-1-3@m uk-grid-match uk-text-center" data-uk-grid>
+            
+                
+                
+                <div>
+                    <div id="getting-started-card" class="uk-card uk-card-default uk-card-hover uk-border-rounded uk-card-body uk-inline card-category">
+                        <a class="uk-position-cover" href="#getting-started-container" data-uk-scroll="duration: 400; offset: 35;" onclick="filter('getting-started');"></a>
+                        
+                        <span data-uk-icon="icon: settings; ratio: 2" class=""></span>
+                        
+                        <h3 class="uk-card-title uk-margin">Getting Started</h3>
+                        
+                        <p>Add a new page to your website</p>
+                        
+                    </div>
+                </div>
+                
+            
+                
+                
+                <div>
+                    <div id="component-guides-card" class="uk-card uk-card-default uk-card-hover uk-border-rounded uk-card-body uk-inline card-category">
+                        <a class="uk-position-cover" href="#component-guides-container" data-uk-scroll="duration: 400; offset: 35;" onclick="filter('component-guides');"></a>
+                        
+                        <span data-uk-icon="icon: settings; ratio: 2" class=""></span>
+                        
+                        <h3 class="uk-card-title uk-margin">Component Guides</h3>
+                        
+                        <p>Individual step by step guides for every component</p>
+                        
+                    </div>
+                </div>
+                
+            
+                
+                
+                <div>
+                    <div id="wordpress-admin-card" class="uk-card uk-card-default uk-card-hover uk-border-rounded uk-card-body uk-inline card-category">
+                        <a class="uk-position-cover" href="#wordpress-admin-container" data-uk-scroll="duration: 400; offset: 35;" onclick="filter('wordpress-admin');"></a>
+                        
+                        <span data-uk-icon="icon: settings; ratio: 2" class=""></span>
+                        
+                        <h3 class="uk-card-title uk-margin">Wordpress Admin</h3>
+                        
+                        <p>Manage users and core website styles</p>
+                        
+                    </div>
+                </div>
+                
+            
+            </div>
+        
+    </div>
+</div>
+
+<div class="uk-section uk-section-large uk-section-default">
+    <div class="uk-container uk-container-small">
+
+        <div class="uk-article-content">
+</div>
+
+        
+        <div>
+            
+            <h2 class="section-title-primary">Authentication
+                <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+            </h2>
+            
+            <ul class="uk-list uk-list-large link-icon-right">
+            
+            </ul>
+        </div>
+        
+
+        <div id="category-section" class="uk-margin-large-top hidden">
+            <hr>
+            
+            
+
+            <div id="wordpress-admin-container" class="category-container hidden">
+                <h2 class="section-title-primary">Wordpress Admin
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/Shutta-Cognita-NextGen/HowToReOrderTestimonials/">How to re-order testimonials</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/HowToEditTables/">How to edit tables</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/SettingUpAGrid/">How to create rows & columns in WPBakery</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/ManageUserRoles/">Manage User Roles</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/ManagePageContent/">Manage Page Titles and SEO</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/ManageGlobalDefinitions/">Edit your school details</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/DeleteComponent/">Remove a component from a page</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/CPT-Testimonials/">Manage Our Testimonials CPT</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/CPT-Teachers/">Manage Our Teachers CPT</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/CPT-Galleries/">Manage Galleries CPT</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddANewPage/">Adding a new Wordpress page</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddHeaderNavigation/">Add Navigation Menu with Images</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/CategoriseArticle/">Categorise Blog Articles</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddLandingPage/">Set up a landing page</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBlogArticle/">Add Blog Articles</a></li>
+                
+                </ul>
+            </div>
+            
+            
+
+            <div id="component-guides-container" class="category-container hidden">
+                <h2 class="section-title-primary">Component Guides
+                    <a href="#" data-uk-totop data-uk-scroll="duration: 400" class="uk-float-right uk-margin-small-top"></a>
+                </h2>
+                <ul class="uk-list uk-list-large link-icon-right uk-margin-remove">
+                
+                    <li><a href="/Shutta-Cognita-NextGen/HowToUseThePopUpCPT/">Add a Pop Up Component</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/HowToEditTheFormTitlesAndDescriptions/">Edit form titles and descriptions</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/">Add a Card Link Pop Up</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddStatisticsSplitter/">Add a Statistics Splitter</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddRightImageCTA/">Add a CTA (right image)</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddGradeCalculator/">Add a Grade Calculator</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddFeeCalculator/">Add a Fee Calculator</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddCalendarComponent/">Add a Calendar Component</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddASlidingBanner/">Add a Sliding Hero Banner</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/Add3GalleryImageWithTitle/">Add a 3 Image Gallery</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddTimeline/">Add a Timeline</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddStatisticsWithNumbers/">Add Statistics With Numbers</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddStatisticsWithMap/">Add Statistics With Map</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddStatisticsWithLeftImage/">Statistics Left Image</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddStatisticsWith4Columns/">Statistics 4 Columns</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddStatisticsCharts/">Add Statistics With Charts</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddSingleImage/">Add Single Image</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddPragraphStyleWith4Columns/">Add Paragraph Style with 4 Columns</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddPragraphStyleWith3Columns/">Add Paragraph Style with 3 Columns</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns/">Add Paragraph Style with 2 Columns</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddPragraphStyleSingleColumn/">Add Paragraph Style with 1 Column</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddPragraphStyleLists/">Add Paragraph Style Lists</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddPragraphStyleFeatures/">Add Paragraph Style Features</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddMapWithPhotos/">Add Map with Photos</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddLogoSlider/">Add a Logo slider</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddFormLead/">Add a Lead Form</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddFormEnquiry/">Add an Enquiry Form</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddCardPageLinks/">Add Card Page Links</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/EditHeroBanner/">Editing your Hero Banner</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddSubpageHero/">Add a Subpage Hero Banner</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddSocialFeed/">Add an Omni channel Social Feed</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddHeroWithLeadForm/">Add a Hero Banner With Lead Form</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddHeroFullWidthImage/">Add a Hero Header with Fullscreen Background Image</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddHeaderNavigation/">Add Navigation Menu with Images</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/EditTestimonialsComponent/">Edit Testimonial Components</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/EditNavigationMenu/">Edit Navigation Menu</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/EditGalleryCarousel/">Edit Gallery Carousel</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/EditCards/">Edit Cards</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddTestimonialsTextSlider/">Add a Testimonial Text Slider</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddTestimonialsSplitter/">Add a Testimonial Splitter With Profile</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddTestimonialsCards/">Add Testimonial Cards</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddTestimonialSlider/">Add a Testimonials slider</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddSubscribeFormSection/">Add a Subscribe Form Section</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddOurTeachersSlider/">Add a Our Teachers Slider</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddOurTeachersLeadership/">Add a Our Teachers Leadership</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddOurTeachersGridLayout/">Add a Our Teachers Grid Layout</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddLeftAlignedCTA/">Add Left Aligned CTA</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddLeadFormSection/">Add a Lead Form Section</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddGalleryMasonry/">Add a Gallery Grid</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddGalleryCarousel/">Add a Gallery Carousel</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddFooterWithMap/">Add a Footer with Map</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddFooterWithCTA/">Add a Footer with CTA</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddFAQ/">Add FAQ component</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddDownloadablesLinks2Column/">Add Downloadable Double Column</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddDownloadablesLinks1Column/">Add Downloadable Single Column</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddCards/">Add Cards</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddCTAWithBGImage/">Add CTA with Background Image</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddCTA/">Add a Call to Action</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBodyLayoutVideoGrid/">Add Body Layout Video Grid</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBodyLayoutSmallLeftImage/">Add Body Layout Small Left Image</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBodyLayoutSmallImage/">Add Body Layout with Small Image</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBodyLayoutNumberedGrid/">Add Body Layout Numbered Grid</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBodyLayoutHalfScreenImage/">Add Body Layout with Half Screen Image</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBodyLayoutFullScreenBGImage/">Add Body Layout with Fullscreen Background Image</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBlogResults/">Add Blog Results</a></li>
+                
+                    <li><a href="/Shutta-Cognita-NextGen/AddBlogHighlights/">Add Blog Highlights</a></li>
+                
+                </ul>
+            </div>
+            
+        </div>
+
+    </div>
+</div>
+
+
+
+<div  class="uk-container uk-container-small"><hr></div>
+<div class="uk-section-large uk-text-center">
+    <div class="uk-container uk-container-small">
+        <div data-uk-scrollspy="cls: uk-animation-slide-bottom-small; repeat: true">
+            <h2 class="section-title-primary">Didn't find an answer to your question?</h2>
+            <p class="subtitle uk-text-lead uk-text-center">How about raising a support ticket and we will respond to you asap.</p>
+            <a class="uk-button uk-button-primary uk-button-large uk-border-rounded uk-margin-small-top" href="https://shutta.co">Raise A Ticket</a>
+        </div>
+    </div>
+</div>
+
+
+    </main>
+
+    <footer class="uk-section uk-section-muted uk-text-center uk-text-muted uk-link-muted">
+    <div class="uk-container uk-container-small">
+
+        <div>
+            <ul class="uk-subnav uk-flex-center">
+                
+                    
+                    
+                    
+                        <li class="uk-active"><a href="/Shutta-Cognita-NextGen/" >Help</a></li>
+                    
+                
+                    
+                    
+                    
+                        <li><a href="/Shutta-Cognita-NextGen/faq/" >Faq</a></li>
+                    
+                
+            </ul>
+        </div>
+        <div class="uk-margin-medium">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+        <div class="uk-margin-medium uk-text-small copyright">Made by <a href="https://shutta.co/">Shutta</a>.</div>
+
+    </div>
+</footer>
+
+
+    <div id="offcanvas" data-uk-offcanvas="flip: true; overlay: true">
+    <div class="uk-offcanvas-bar">
+
+        <button class="uk-offcanvas-close" type="button" data-uk-close></button>
+
+        <ul class="uk-nav uk-nav-default">
+            <li><a class="uk-logo uk-margin-small-bottom" href="/Shutta-Cognita-NextGen/"></a></li>
+            
+                
+            <li><a href="http://localhost:4000/" >Help</a></li>
+            
+                
+            <li><a href="http://localhost:4000/faq/" >Faq</a></li>
+            
+        </ul>
+
+        <div class="uk-margin-small-top uk-text-center uk-text-muted uk-link-muted">
+            <div data-uk-grid class="uk-child-width-auto uk-grid-small uk-flex-center uk-grid">
+                
+
+
+
+
+
+
+
+
+
+
+
+
+
+            </div>
+        </div>
+
+    </div>
+</div>
+
+
+    </body>
+
+</html>

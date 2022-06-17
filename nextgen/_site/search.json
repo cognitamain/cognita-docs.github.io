@@ -1,0 +1,643 @@
+[
+  
+    {
+      "title"    : "Add a Pop Up Component",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToUseThePopUpCPT/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "How to re-order testimonials",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToReOrderTestimonials/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit form titles and descriptions",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToEditTheFormTitlesAndDescriptions/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "How to edit tables",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToEditTables/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Card Link Pop Up",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Statistics Splitter",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsSplitter/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a CTA (right image)",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddRightImageCTA/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Grade Calculator",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddGradeCalculator/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Fee Calculator",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddFeeCalculator/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Calendar Component",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddCalendarComponent/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Sliding Hero Banner",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddASlidingBanner/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a 3 Image Gallery",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/Add3GalleryImageWithTitle/",
+      "date"     : "2022-05-20 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "How to create rows &amp; columns in WPBakery",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/SettingUpAGrid/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Manage User Roles",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ManageUserRoles/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Manage Page Titles and SEO",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ManagePageContent/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit your school details",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/ManageGlobalDefinitions/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Remove a component from a page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/DeleteComponent/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Manage Our Testimonials CPT",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Testimonials/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Manage Our Teachers CPT",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Teachers/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Manage Galleries CPT",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Galleries/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Timeline",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddTimeline/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Statistics With Numbers",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsWithNumbers/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Statistics With Map",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsWithMap/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Statistics Left Image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsWithLeftImage/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Statistics 4 Columns",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsWith4Columns/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Statistics With Charts",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsCharts/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Single Image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddSingleImage/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Paragraph Style with 4 Columns",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleWith4Columns/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Paragraph Style with 3 Columns",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleWith3Columns/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Paragraph Style with 2 Columns",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Paragraph Style with 1 Column",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleSingleColumn/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Paragraph Style Lists",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleLists/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Paragraph Style Features",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleFeatures/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Map with Photos",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddMapWithPhotos/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Logo slider",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddLogoSlider/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Lead Form",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddFormLead/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add an Enquiry Form",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddFormEnquiry/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Card Page Links",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddCardPageLinks/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Adding a new Wordpress page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddANewPage/",
+      "date"     : "2022-03-19 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Editing your Hero Banner",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditHeroBanner/",
+      "date"     : "2022-03-12 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Subpage Hero Banner",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddSubpageHero/",
+      "date"     : "2022-03-12 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add an Omni channel Social Feed",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddSocialFeed/",
+      "date"     : "2022-03-12 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Hero Banner With Lead Form",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddHeroWithLeadForm/",
+      "date"     : "2022-03-12 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Hero Header with Fullscreen Background Image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddHeroFullWidthImage/",
+      "date"     : "2022-03-12 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Navigation Menu with Images",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddHeaderNavigation/",
+      "date"     : "2022-03-12 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit Testimonial Components",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditTestimonialsComponent/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit Navigation Menu",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditNavigationMenu/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit Gallery Carousel",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditGalleryCarousel/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Edit Cards",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/EditCards/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Categorise Blog Articles",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/CategoriseArticle/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Testimonial Text Slider",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddTestimonialsTextSlider/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Testimonial Splitter With Profile",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddTestimonialsSplitter/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Testimonial Cards",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddTestimonialsCards/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Testimonials slider",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddTestimonialSlider/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Subscribe Form Section",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddSubscribeFormSection/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Our Teachers Slider",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddOurTeachersSlider/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Our Teachers Leadership",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddOurTeachersLeadership/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Our Teachers Grid Layout",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddOurTeachersGridLayout/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Left Aligned CTA",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddLeftAlignedCTA/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Lead Form Section",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddLeadFormSection/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Set up a landing page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddLandingPage/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Gallery Grid",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddGalleryMasonry/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Gallery Carousel",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddGalleryCarousel/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Footer with Map",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddFooterWithMap/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Footer with CTA",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddFooterWithCTA/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add FAQ component",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddFAQ/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Downloadable Double Column",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddDownloadablesLinks2Column/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Downloadable Single Column",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddDownloadablesLinks1Column/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Cards",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddCards/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add CTA with Background Image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddCTAWithBGImage/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add a Call to Action",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddCTA/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Body Layout Video Grid",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutVideoGrid/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Body Layout Small Left Image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutSmallLeftImage/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Body Layout with Small Image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutSmallImage/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Body Layout Numbered Grid",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutNumberedGrid/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Body Layout with Half Screen Image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutHalfScreenImage/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Body Layout with Fullscreen Background Image",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutFullScreenBGImage/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Blog Results",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBlogResults/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Blog Highlights",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBlogHighlights/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Add Blog Articles",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/AddBlogArticle/",
+      "date"     : "2022-02-09 00:00:00 +0700"
+    } 
+  
+]

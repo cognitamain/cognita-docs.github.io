@@ -1,0 +1,15 @@
+# Categories home page navigation
+
+- heading: Browse All Topics
+  categories:
+    - title: Getting Started
+      desc: Add a new page to your website
+      icon: settings
+
+    - title: Component Guides
+      desc: Individual step by step guides for every component
+      icon: settings
+
+    - title: Wordpress Admin
+      desc: Manage users and core website styles
+      icon: settings
