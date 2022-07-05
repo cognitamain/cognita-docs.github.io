@@ -3,7 +3,7 @@ layout: post
 title: Add Blog Results
 categories: [Component Guides]
 author: Anna Browell
----
+--- 
 {% include image.html img="blog_results.png" style="wide" lightbox="false" alt="Alt for image" caption="Blog Results" %}
 
 
