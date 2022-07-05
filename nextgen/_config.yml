@@ -9,7 +9,7 @@ title:              Next Gen
 description:        Knowledge base for the use of the Next Gen components on Wordpress.
 
 # Site subpath, e.g. /blog
-baseurl:            "/nextgen/"
+baseurl:            "/nextgen"
 
 # Permalink URLs structure, for permalink style options see: https://jekyllrb.com/docs/permalinks/
 permalink:          /:title/

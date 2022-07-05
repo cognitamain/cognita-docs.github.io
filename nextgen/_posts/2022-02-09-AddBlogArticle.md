@@ -1,5 +1,5 @@
 ---
-layout: post 
+layout: post
 title: Add Blog Articles
 categories: [Wordpress Admin]
 author: Anna Browell
