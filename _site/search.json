@@ -1,6 +1,14 @@
 [
   
     {
+      "title"    : "Find your lead details",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/nextgen/FindLeadDetails/",
+      "date"     : "2022-07-07 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Add Emoticons Testimonial",
       "category" : "",
       "tags"     : "",
@@ -108,7 +116,7 @@
       "title"    : "Add a Sliding Hero Banner",
       "category" : "",
       "tags"     : "",
-      "url"      : "/nextgen/AddASlidingBanner-copy/",
+      "url"      : "/nextgen/AddASlidingBanner/",
       "date"     : "2022-05-20 00:00:00 +0700"
     } ,
   
