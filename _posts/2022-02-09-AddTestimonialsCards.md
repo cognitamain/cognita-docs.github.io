@@ -14,13 +14,13 @@ The 3 column slider component for testimonials has several benefits for the layo
 {% include image.html img="testimonials_cards_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Testimonial Cards Settings" %}
 
 
-## Using the Testimonial Component
+## Using the Testimonials Component
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
 2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Select the option Testimonial Templates
+4. Select the option Testimonials option
 5. The settings box will open out, select template 'Slider with Images'
 6. Select the amount of posts you want to display
 7. Click save the component will be added to the end of the page

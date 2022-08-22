@@ -11,16 +11,19 @@ author: Anna Browell
 
 This image component will provide a vital visual impact to keep visitors on the page, and interested to read more. Make sure you choose an interesting image that will work well as a background to any copy you intend to include in the header. Always check the quality of the image when the page is live, a pixelated or distorted image will have a negative impact on most readers.
 
-{% include image.html img="cta_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="CTA Setup" %}
+To add a hero banner with background image, open up the page you want edit in WPBakery. Add a row component and open the Design Options tab.
+
+From the design options tab you can add a background image, select the image you want to use and define the option Theme Defaults to Cover.
+
+Navigate to back to the General tab and set Row Stretch to Stretch row and content (no paddings)
+
+Click save and you header with background image will be added to your page.
 
 
-## Using the Header Component
+You will notice the height will limited. You can control the height for different the devices by adding the spacing component inside the row.
 
+{% include image.html img="row_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Row Setup" %}
 
-1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
-3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
 
 
 ## Pro Tip

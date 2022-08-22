@@ -14,13 +14,13 @@ Use this single splitter component to display testimonials in an eye-catching de
 {% include image.html img="testimonial_splitter_profile_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Testimonial Splitter With Profile Settings" %}
 
 
-## Using the Testimonial Component
+## Using the Testimonials Component
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
 2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Select the option Testimonial Templates
+4. Select the option Testimonials
 5. The settings box will open out, select template 'List'
 6. Set the amount of posts to 1
 7. Click save the component will be added to the end of the page

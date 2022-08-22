@@ -20,8 +20,8 @@ Call to action (CTA) buttons are probably the most essential elements on your we
 1. Open a WPBakery Frontend Editor on the page you want to modify
 2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Select the option Centered CTA
-5. The settings box will open out select the template Right Image CTA
+4. Select the option CTA cenetered
+5. The settings box will open out select the template 'Display image on the right full width'
 6. You will need to first add the image to be shown
 7. Now add the title and a short description
 7. Finally add your button names and urls

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a 3 Image Gallery
+title: Add a Three Image Gallery
 categories: [Component Guides]
 author: Anna Browell
 ---
@@ -14,13 +14,13 @@ Galleries are a great way to break up the content on your page with some rich vi
 {% include image.html img="three-image-gallery-settings.png" style="wide" lightbox="false" alt="Alt for image" caption="3 Image Gallery Settings" %}
 
 
-## Using the Gallery Component
+## Using the Three Gallery Component
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
 2. Click the + symbol on the top menu to open the WPBakery component menu
 3. Navigate to the section Next-Gen
-4. Select the option Three Image Gallery
+4. Select the option Three Gallery
 5. The settings box will open out add a title 
 6. Under the paragraph section you can choose which images you want displayed in the gallery
 7. Click save the component will be added to the end of the page
