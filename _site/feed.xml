@@ -1,130 +1,95 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/nextgen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nextgen/" rel="alternate" type="text/html" /><updated>2022-07-14T14:05:51+07:00</updated><id>http://localhost:4000/nextgen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Logging in to Test Website</title><link href="http://localhost:4000/nextgen/LoggingIntoStagingEnvironments/" rel="alternate" type="text/html" title="Logging in to Test Website" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/LoggingIntoStagingEnvironments</id><content type="html" xml:base="http://localhost:4000/nextgen/LoggingIntoStagingEnvironments/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/logging_in.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Staging Login</span></figcaption>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/nextgen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nextgen/" rel="alternate" type="text/html" /><updated>2022-08-22T16:13:25+07:00</updated><id>http://localhost:4000/nextgen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Recommended Component Usage on a Page</title><link href="http://localhost:4000/nextgen/RecommendedComponentUsage/" rel="alternate" type="text/html" title="Recommended Component Usage on a Page" /><published>2022-08-12T00:00:00+07:00</published><updated>2022-08-12T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/RecommendedComponentUsage</id><content type="html" xml:base="http://localhost:4000/nextgen/RecommendedComponentUsage/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/recommended_components.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Recommended page size</span></figcaption>
 </figure>
 
 <h2 id="description">Description</h2>
 
-<p>For most content updates it is easy to make changes on your live site and only publish these changes when you are happy with the layout. However In other cases where the update may have an impact on multiple pages (changing Navigation, changing footer styles) or the change may have a critical effect on the website such as Editing Webforms, the development environments should be used to create and test the changes before applying them. Each website has two test environments PreProd and Develop.</p>
+<p>The performance of you website generally refers to how quick your website loads for end users, this is different for users that have fast internet connection or who are using desktop computers vs users using 3G on mobile devices. A mobile takes more time to process the content on the page and tend to have slower connection speeds. When we test the performance of the sites we need to consider users using mobile devices.</p>
 
-<p>Editing the sites in the test environments will make no impact on your live site. If the site breaks you can ask the hypercare team to roll back the change to the same state as the current live site.</p>
+<p>One quick way of increasing the performance of your website is reducing the amount of sections/components on the page as the more sections you have the more processing the site needs to do before the page loads.</p>
 
-<h2 id="your-staging-environments">Your Staging environments</h2>
+<p>This will have varying effect, if the section is predominantly text then it will have little impact on page load performance. But if you are using lots of galleries or testimonial sliders where the content loads in the background, then simplifying the page by reducing the usage of these will see performance gains.</p>
+
+<p>We would recommend not exceeding between 5-10 sections on a page to keep the page load speed optimised.</p>
+
+<h2 id="pro-tip">Pro Tip</h2>
+
+<blockquote>
+  <p>Even though you are trying to reduce the content for page speed performance, you will still need to have a minimum of 300 words on each page so the SEO performance does not get effected.</p>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Recommended page size]]></summary></entry><entry><title type="html">Optimising Images</title><link href="http://localhost:4000/nextgen/OptimiseImages/" rel="alternate" type="text/html" title="Optimising Images" /><published>2022-07-29T00:00:00+07:00</published><updated>2022-07-29T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/OptimiseImages</id><content type="html" xml:base="http://localhost:4000/nextgen/OptimiseImages/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/optimise_image_header.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Optimising Images</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>The performance of you website generally refers to how quick your website loads for end users. Because your site is media rich the page load speed can be negatively impacted when images are used on your site that have not been optimised for web.</p>
+
+<p>You can see if the image is suitable for web by checking the following image details. The files size, the image dimensions in pixels and the file format.</p>
+
+<h2 id="file-sizes">File sizes</h2>
+
+<p>You should try to keep images that are used in the page content below 100kb, this is more difficult when using full width images such as headers or form backgrounds and in this case keep you should avoid images over 300kb. To reduce your image file size you may need to reduce the dimensions of the image or increase the compression.</p>
+
+<p>There are useful tools online for processing images for web.</p>
+
+<p>https://bulkresizephotos.com/en</p>
+
+<h2 id="image-dimensions">Image Dimensions</h2>
+
+<p>Internet browsers are unable to render images in a higher quality than 72dpi, however many cameras and photo files store images at 300dpi, when you use these images on your website the file size can be four times the size that is needed to display the same image at the right dimensions.</p>
+
+<p>You can check each of your image dimensions when you select an image in your Media Library on your website. The larger the device screen the larger the dimensions need to be, but desktop websites are not usually rendered larger than 1600 pixels for the entire width of the screen. To make sure that your images are not oversized we recommend that you keep all of your banner images below 1600px.</p>
+
+<p>Below we have included a chart of best practices for image dimensions for common components.</p>
 
 <table>
   <thead>
     <tr>
-      <th>Live Site</th>
-      <th>Develop Site</th>
-      <th>Preprod Site</th>
+      <th>Component</th>
+      <th>Apx. Dimension pixels</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>www.brightoncollege.edu.sg</td>
-      <td>brightoncollege-dev.cognitastaging.co.uk</td>
-      <td>brightoncollege-preprod.cognitastaging.co.uk</td>
+      <td>Hero Image</td>
+      <td>1600x800</td>
     </tr>
     <tr>
-      <td>www.aavn.edu.vn</td>
-      <td>aavn-dev.cognitastaging.co.uk</td>
-      <td>aavn-preprod.cognitastaging.co.uk</td>
+      <td>Lead form BG</td>
+      <td>1600x800</td>
     </tr>
     <tr>
-      <td>www.ishcmc.com</td>
-      <td>ishcmc-dev.cognitastaging.co.uk</td>
-      <td>ishcmc-preprod.cognitastaging.co.uk</td>
+      <td>CTA BG</td>
+      <td>1600x800</td>
     </tr>
     <tr>
-      <td>www.standrewsgreenvalley.com</td>
-      <td>standrewsgreenvalley-dev.cognitastaging.co.uk</td>
-      <td>standrewsgreenvalley-preprod.cognitastaging.co.uk</td>
+      <td>Blogs</td>
+      <td>800x500</td>
     </tr>
     <tr>
-      <td>www.ais.com.sg</td>
-      <td>ais-dev.cognitastaging.co.uk</td>
-      <td>ais-preprod.cognitastaging.co.uk</td>
+      <td>Cards</td>
+      <td>500x300</td>
     </tr>
     <tr>
-      <td>www.sais.edu.hk</td>
-      <td>sais-hk-dev.cognitastaging.co.uk</td>
-      <td>sais-hk-preprod.cognitastaging.co.uk</td>
+      <td>Teachers</td>
+      <td>500x400</td>
     </tr>
     <tr>
-      <td>www.woodlandschools.com</td>
-      <td>woodlandschools-dev.cognitastaging.co.uk</td>
-      <td>woodlandschools-preprod.cognitastaging.co.uk</td>
+      <td>Testimonials</td>
+      <td>500x400</td>
     </tr>
     <tr>
-      <td>www.standrewssukhumvit.com</td>
-      <td>standrewssukhumvit-dev.cognitastaging.co.uk</td>
-      <td>standrewssukhumvit-preprod.cognitastaging.co.uk</td>
-    </tr>
-    <tr>
-      <td>www.standrewssathorn.com</td>
-      <td>standrewssathorn-dev.cognitastaging.co.uk</td>
-      <td>standrewssathorn-preprod.cognitastaging.co.uk</td>
-    </tr>
-    <tr>
-      <td>www.standrewsdusit.com</td>
-      <td>standrewssathorn-dev.cognitastaging.co.uk</td>
-      <td>standrewssathorn-preprod.cognitastaging.co.uk</td>
-    </tr>
-    <tr>
-      <td>www.issp.edu.vn</td>
-      <td>issp-dev.cognitastaging.co.uk</td>
-      <td>issp-preprod.cognitastaging.co.uk</td>
-    </tr>
-    <tr>
-      <td>www.sais.edu.sg</td>
-      <td>sais-sg-dev.cognitastaging.co.uk</td>
-      <td>sais-sg-preprod.cognitastaging.co.uk</td>
+      <td>Menu Thumbnails</td>
+      <td>160x100</td>
     </tr>
   </tbody>
 </table>
 
-<h2 id="accessing-your-staging-environment">Accessing your Staging Environment</h2>
+<h2 id="file-type">File type</h2>
 
-<ol>
-  <li>Find the URL of the environment you want to make your changes to. Load it in a new window.</li>
-  <li>Your will be requested to enter a username and password.</li>
-  <li>Use the following credentials
-    <ul>
-      <li>username: cognita</li>
-      <li>password: tgbygv</li>
-    </ul>
-  </li>
-  <li>Your website should appear after adding the credentials</li>
-  <li>You may notice it does not look exactly the same, some different styles or missing logo but do not worry this is because some of your setting are not included</li>
-  <li>You can access the admin menu the same way you do on your live site</li>
-  <li>Go to the /admin/ or /wp-admin/ select login with username and password</li>
-  <li>Use the same username and password as you use on your live site</li>
-  <li>You will now need the authentication code that you use on your live site</li>
-  <li>You are now logged in to the staging environment</li>
-</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Staging Login]]></summary></entry><entry><title type="html">Export Forms Entries</title><link href="http://localhost:4000/nextgen/ExportFormEntries/" rel="alternate" type="text/html" title="Export Forms Entries" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/ExportFormEntries</id><content type="html" xml:base="http://localhost:4000/nextgen/ExportFormEntries/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/entries_export_form.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Entries</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>The forms section provides the option to export the lead entries directly from your website admin area. This can be useful if you want to compare against the leads that have been automatically loaded into dynamics. This article guides you to on exporting your leads from your site into an excel file.</p>
-
-<h2 id="exporting-you-form">Exporting you form</h2>
-
-<ol>
-  <li>Navigate to Forms-&gt; Import/Export -&gt; Export Form</li>
-  <li>Select the form you want to see the lead entries for</li>
-  <li>Select which fields you would like included in the export</li>
-  <li>Limit the date range of the entries you want to export</li>
-  <li>You can add additional conditions to filter results even further</li>
-  <li>Finally download the Export File</li>
-</ol>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/entries_export_filter.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Filters</span></figcaption>
-</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Export Entries]]></summary></entry><entry><title type="html">Editing Form Details</title><link href="http://localhost:4000/nextgen/EditingForms/" rel="alternate" type="text/html" title="Editing Form Details" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/EditingForms</id><content type="html" xml:base="http://localhost:4000/nextgen/EditingForms/"><![CDATA[<figure>
+<p>While browsers can display many image formats, Wordpress VIP has an additional image compression option that has been activated for JPG/JPEG images. When you upload JPG images on your site Wordpress VIP will deliver the images as WEBP this is a next generation image compression that will further optimise your page load speed.</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Optimising Images]]></summary></entry><entry><title type="html">Editing Form Details</title><link href="http://localhost:4000/nextgen/EditingForms/" rel="alternate" type="text/html" title="Editing Form Details" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/EditingForms</id><content type="html" xml:base="http://localhost:4000/nextgen/EditingForms/"><![CDATA[<figure>
     <img src="http://localhost:4000/nextgen/assets/posts/form_forms.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Form Entries</span></figcaption>
 </figure>
@@ -235,7 +200,133 @@
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/form_export.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Forms</span></figcaption>
-</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Description]]></summary></entry><entry><title type="html">Find your lead details</title><link href="http://localhost:4000/nextgen/FindLeadDetails/" rel="alternate" type="text/html" title="Find your lead details" /><published>2022-07-07T00:00:00+07:00</published><updated>2022-07-07T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/FindLeadDetails</id><content type="html" xml:base="http://localhost:4000/nextgen/FindLeadDetails/"><![CDATA[<figure>
+</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Description]]></summary></entry><entry><title type="html">Export Forms Entries</title><link href="http://localhost:4000/nextgen/ExportFormEntries/" rel="alternate" type="text/html" title="Export Forms Entries" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/ExportFormEntries</id><content type="html" xml:base="http://localhost:4000/nextgen/ExportFormEntries/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/entries_export_form.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Entries</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>The forms section provides the option to export the lead entries directly from your website admin area. This can be useful if you want to compare against the leads that have been automatically loaded into dynamics. This article guides you to on exporting your leads from your site into an excel file.</p>
+
+<h2 id="exporting-you-form">Exporting you form</h2>
+
+<ol>
+  <li>Navigate to Forms-&gt; Import/Export -&gt; Export Form</li>
+  <li>Select the form you want to see the lead entries for</li>
+  <li>Select which fields you would like included in the export</li>
+  <li>Limit the date range of the entries you want to export</li>
+  <li>You can add additional conditions to filter results even further</li>
+  <li>Finally download the Export File</li>
+</ol>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/entries_export_filter.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Filters</span></figcaption>
+</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Export Entries]]></summary></entry><entry><title type="html">Logging in to Test Website</title><link href="http://localhost:4000/nextgen/LoggingIntoStagingEnvironments/" rel="alternate" type="text/html" title="Logging in to Test Website" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/LoggingIntoStagingEnvironments</id><content type="html" xml:base="http://localhost:4000/nextgen/LoggingIntoStagingEnvironments/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/logging_in.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Staging Login</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>For most content updates it is easy to make changes on your live site and only publish these changes when you are happy with the layout. However In other cases where the update may have an impact on multiple pages (changing Navigation, changing footer styles) or the change may have a critical effect on the website such as Editing Webforms, the development environments should be used to create and test the changes before applying them. Each website has two test environments PreProd and Develop.</p>
+
+<p>Editing the sites in the test environments will make no impact on your live site. If the site breaks you can ask the hypercare team to roll back the change to the same state as the current live site.</p>
+
+<h2 id="your-staging-environments">Your Staging environments</h2>
+
+<table>
+  <thead>
+    <tr>
+      <th>Live Site</th>
+      <th>Develop Site</th>
+      <th>Preprod Site</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>www.brightoncollege.edu.sg</td>
+      <td>brightoncollege-dev.cognitastaging.co.uk</td>
+      <td>brightoncollege-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.aavn.edu.vn</td>
+      <td>aavn-dev.cognitastaging.co.uk</td>
+      <td>aavn-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.ishcmc.com</td>
+      <td>ishcmc-dev.cognitastaging.co.uk</td>
+      <td>ishcmc-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.standrewsgreenvalley.com</td>
+      <td>standrewsgreenvalley-dev.cognitastaging.co.uk</td>
+      <td>standrewsgreenvalley-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.ais.com.sg</td>
+      <td>ais-dev.cognitastaging.co.uk</td>
+      <td>ais-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.sais.edu.hk</td>
+      <td>sais-hk-dev.cognitastaging.co.uk</td>
+      <td>sais-hk-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.woodlandschools.com</td>
+      <td>woodlandschools-dev.cognitastaging.co.uk</td>
+      <td>woodlandschools-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.standrewssukhumvit.com</td>
+      <td>standrewssukhumvit-dev.cognitastaging.co.uk</td>
+      <td>standrewssukhumvit-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.standrewssathorn.com</td>
+      <td>standrewssathorn-dev.cognitastaging.co.uk</td>
+      <td>standrewssathorn-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.standrewsdusit.com</td>
+      <td>standrewssathorn-dev.cognitastaging.co.uk</td>
+      <td>standrewssathorn-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.issp.edu.vn</td>
+      <td>issp-dev.cognitastaging.co.uk</td>
+      <td>issp-preprod.cognitastaging.co.uk</td>
+    </tr>
+    <tr>
+      <td>www.sais.edu.sg</td>
+      <td>sais-sg-dev.cognitastaging.co.uk</td>
+      <td>sais-sg-preprod.cognitastaging.co.uk</td>
+    </tr>
+  </tbody>
+</table>
+
+<h2 id="accessing-your-staging-environment">Accessing your Staging Environment</h2>
+
+<ol>
+  <li>Find the URL of the environment you want to make your changes to. Load it in a new window.</li>
+  <li>Your will be requested to enter a username and password.</li>
+  <li>Use the following credentials
+    <ul>
+      <li>username: cognita</li>
+      <li>password: tgbygv</li>
+    </ul>
+  </li>
+  <li>Your website should appear after adding the credentials</li>
+  <li>You may notice it does not look exactly the same, some different styles or missing logo but do not worry this is because some of your setting are not included</li>
+  <li>You can access the admin menu the same way you do on your live site</li>
+  <li>Go to the /admin/ or /wp-admin/ select login with username and password</li>
+  <li>Use the same username and password as you use on your live site</li>
+  <li>You will now need the authentication code that you use on your live site</li>
+  <li>You are now logged in to the staging environment</li>
+</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Staging Login]]></summary></entry><entry><title type="html">Find your lead details</title><link href="http://localhost:4000/nextgen/FindLeadDetails/" rel="alternate" type="text/html" title="Find your lead details" /><published>2022-07-07T00:00:00+07:00</published><updated>2022-07-07T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/FindLeadDetails</id><content type="html" xml:base="http://localhost:4000/nextgen/FindLeadDetails/"><![CDATA[<figure>
     <img src="http://localhost:4000/nextgen/assets/posts/entries_menu.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Form Entries</span></figcaption>
 </figure>
@@ -301,129 +392,68 @@
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
   <p>Use the Dynamic template to add your own custom quotes, but make sure to use at least two word lines.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Emoticons]]></summary></entry><entry><title type="html">How to re-order testimonials</title><link href="http://localhost:4000/nextgen/HowToReOrderTestimonials/" rel="alternate" type="text/html" title="How to re-order testimonials" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/HowToReOrderTestimonials</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToReOrderTestimonials/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/timeline.png" alt="Alt for image" />
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Emoticons]]></summary></entry><entry><title type="html">Add a CTA (right image)</title><link href="http://localhost:4000/nextgen/AddRightImageCTA/" rel="alternate" type="text/html" title="Add a CTA (right image)" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/AddRightImageCTA</id><content type="html" xml:base="http://localhost:4000/nextgen/AddRightImageCTA/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/right-image-cta.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">CTA Image Right</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>Call to action (CTA) buttons are probably the most essential elements on your web pages. If you want your website to drive a significant amount of parents and guardians to consider your school for their child, then this content is vital to your faculty. A CTA button makes it easy for a user to engage. This 2 column component will allow your CTAs to stand out on the page. It also provides space to include one or two buttons and text to encourage the visitor to take the next step in their search for a new school.</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/right-image-cta-settings.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">CTA Right Image Settings</span></figcaption>
+</figure>
+
+<h2 id="using-the-cta-component">Using the CTA Component</h2>
+
+<ol>
+  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
+  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
+  <li>Navigate to the section Next-Gen</li>
+  <li>Select the option CTA cenetered</li>
+  <li>The settings box will open out select the template ‘Display image on the right full width’</li>
+  <li>You will need to first add the image to be shown</li>
+  <li>Now add the title and a short description</li>
+  <li>Finally add your button names and urls</li>
+  <li>Click save the component will be added to the end of the page</li>
+  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
+</ol>
+
+<h2 id="pro-tip">Pro Tip</h2>
+<blockquote>
+  <p>If you choose to only show one button then leave the field blank and the button will not display.</p>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[CTA Image Right]]></summary></entry><entry><title type="html">Add a Pop Up Component</title><link href="http://localhost:4000/nextgen/HowToUseThePopUpCPT/" rel="alternate" type="text/html" title="Add a Pop Up Component" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/HowToUseThePopUpCPT</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToUseThePopUpCPT/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/popupcomponent.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline</span></figcaption>
 </figure>
 
 <h2 id="description">Description</h2>
 
-<p>The testimonials have some limitations when managing the order. The default order is by date, if your teacher was added last then it will appear first on the list. You may want to re-order the testimonials to prioritise a particular post, the best way to do this is to duplicate testimonial by creating a new one and copying the content over. The new post will appear last in the list, and you can remove the original post.</p>
+<p>The pop up component allows you to reduce the text content on the page by only showing a brief description on the page and opening out to the full details inside a dialogue box. From a users perspective it makes the content more manageable and easier to find other content if this content is not what they are looking for.</p>
 
-<p>You can edit any of the slider posts and switch the order between ASC and DESC to organise the posts in the order you need.</p>
+<p>This component is ideal for testimonials or key messages you want to share with you visitors.</p>
 
 <figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/timeline_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Testimonials CPT</span></figcaption>
+    <img src="http://localhost:4000/nextgen/assets/posts/popupcomponent-settings.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<h2 id="re-ordering-the-testimonials">Re-Ordering the Testimonials</h2>
+<h2 id="using-the-pop-up-component">Using the Pop Up Component</h2>
 
 <ol>
   <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
   <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
   <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Vertical Timeline</li>
-  <li>The settings box will open out add the first year and description</li>
-  <li>After you fill in the first boxes another set of inputs will appear</li>
-  <li>Continue until you have added all of the dates you need</li>
+  <li>Select the option Parent with Pop Up</li>
+  <li>The settings box will open out set the amount of posts you want to show in the post count box</li>
   <li>Click save the component will be added to the end of the page</li>
   <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
+  <li>The content will be taken from the teachers cpt, you can edit these by going to the admin area and clicking teachers</li>
 </ol>
 
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
-  <p>Take time to carefully collate the details related to every individual event or point that you would like to include in the timeline before you proceed.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Timeline]]></summary></entry><entry><title type="html">Edit form titles and descriptions</title><link href="http://localhost:4000/nextgen/HowToEditTheFormTitlesAndDescriptions/" rel="alternate" type="text/html" title="Edit form titles and descriptions" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/HowToEditTheFormTitlesAndDescriptions</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToEditTheFormTitlesAndDescriptions/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/lead_form_section.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Lead form with background</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>After adding a lead form component you may want to add details on what leads are registering for. We have provided 4 fields a title and description included on the left, and a title a description specific to the form. We would recommend adding any list details on the form description.</p>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/lead_form_section_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Lead form settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-lead-form-component">Using the Lead Form Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Find the “Lead form component” and click the option</li>
-  <li>The settings box will open</li>
-  <li>Add a Title and select the form you want to link it to</li>
-  <li>You will need to open out the design options settings to select a background image</li>
-  <li>Set your background image style to cover</li>
-  <li>You can use the other fields to give more details</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Use this form component to encourage visitors to book a tour of your campus or to accept an invitation to an open day.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Lead form with background]]></summary></entry><entry><title type="html">How to edit tables</title><link href="http://localhost:4000/nextgen/HowToEditTables/" rel="alternate" type="text/html" title="How to edit tables" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/HowToEditTables</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToEditTables/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/timeline.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Tables can be quite difficult to manage on a website, they don’t format very well on responsive devices and the larger the table the more complicated it can be to manage the data.</p>
-
-<p>The next-gen websites instead use the text box wysiwyg editor, this make copying table content from MSWord or google docs very easy, just highlight your table and copy and paste it into the editor. If you want to keep the same heading styles copy your table out of the editor and paste it into word or google docs and modify your table. Once you changes have been made copy it back into the editor and your previous table styles will remain.</p>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/timeline_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Text Box Settings</span></figcaption>
-</figure>
-
-<h2 id="editing-the-table">Editing the Table</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Vertical Timeline</li>
-  <li>The settings box will open out add the first year and description</li>
-  <li>After you fill in the first boxes another set of inputs will appear</li>
-  <li>Continue until you have added all of the dates you need</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Take time to carefully collate the details related to every individual event or point that you would like to include in the timeline before you proceed.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Timeline]]></summary></entry><entry><title type="html">Add a Card Link Pop Up</title><link href="http://localhost:4000/nextgen/AddTheCardPopUpsComponent/" rel="alternate" type="text/html" title="Add a Card Link Pop Up" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/AddTheCardPopUpsComponent</id><content type="html" xml:base="http://localhost:4000/nextgen/AddTheCardPopUpsComponent/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/activities-pop-up.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Card Link Pop Up</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>This component is great for detailing activities or any other content where you want to expand the title to see a description and images. The card component itself supports a title and an icon but when clicked, the dialogue box appears with an image and a detailed description, further more if you create multiple in the same section the dialogue box will support scrolling through the activities.</p>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/activities-pop-up-settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Card Link Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-card-link-component">Using the Card link Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Icon with Pop Up</li>
-  <li>The settings box will open up, set the post count to -1</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row6. To add the content for this option, you will need to navigate to the admin area and find the icon pop up cpt</li>
-  <li>This post supports an icon, a title, an image a brief description</li>
-  <li>Add the post content you need and if necessary organise them into categories</li>
-</ol>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Card Link Pop Up]]></summary></entry></feed>
+  <p>Use categories to organise your different content types, when creating the cpts</p>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Timeline]]></summary></entry></feed>

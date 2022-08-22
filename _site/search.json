@@ -1,6 +1,22 @@
 [
   
     {
+      "title"    : "Recommended Component Usage on a Page",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/nextgen/RecommendedComponentUsage/",
+      "date"     : "2022-08-12 00:00:00 +0700"
+    } ,
+  
+    {
+      "title"    : "Optimising Images",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/nextgen/OptimiseImages/",
+      "date"     : "2022-07-29 00:00:00 +0700"
+    } ,
+  
+    {
       "title"    : "Logging in to Test Website",
       "category" : "",
       "tags"     : "",
@@ -121,7 +137,7 @@
     } ,
   
     {
-      "title"    : "Add a Event Component",
+      "title"    : "Add an Event Component",
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddEventComponent/",
@@ -153,7 +169,7 @@
     } ,
   
     {
-      "title"    : "Add a 3 Image Gallery",
+      "title"    : "Add a Three Image Gallery",
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/Add3GalleryImageWithTitle/",
@@ -529,7 +545,7 @@
     } ,
   
     {
-      "title"    : "Add a Our Teachers Grid Layout",
+      "title"    : "Add the Teachers Grid Layout",
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddOurTeachersGridLayout/",
