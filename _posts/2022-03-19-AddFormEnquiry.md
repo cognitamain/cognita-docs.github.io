@@ -9,7 +9,7 @@ author: Anna Browell
 
 ## Description
 
-The enquiry form component provides all the required fields for an E2C Enquiry. The visitor is able to register up to 3 children on one enquiry form and offer them the opportunity to provide exact details relating to each potential student, their grade and required starting date.
+The enquiry form provides all the required fields for an E2C Enquiry. The visitor is able to register up to 3 children on one enquiry form and offer them the opportunity to provide exact details relating to each potential student, their grade and required starting date.
 
 
 
