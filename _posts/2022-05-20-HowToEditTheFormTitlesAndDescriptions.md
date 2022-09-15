@@ -9,7 +9,7 @@ author: Anna Browell
 
 ## Description
 
-After adding a BG full size with form component you may want to add details on what leads are registering for. We have provided 4 fields a title and description included on the left, and a title a description specific to the form. We would recommend adding any list details on the form description.
+After adding a Lead Form with Background component you may want to add details on what leads are registering for. We have provided 4 fields a title and description included on the left, and a title a description specific to the form. We would recommend adding any list details on the form description.
 
 {% include image.html img="lead_form_section_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Lead Form with Background settings" %}
 
