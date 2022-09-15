@@ -32,6 +32,7 @@ In Wordpress your navigation menus are set up under the Appearance tab in the ad
 7. Make sure to click Save Menu to apply your changes
 
 
+
 ## Pro Tip
 > Use eye catching visuals in your menu to encourage your users to explore the website.
 
