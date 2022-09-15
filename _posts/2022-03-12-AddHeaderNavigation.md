@@ -4,23 +4,32 @@ title: Add Navigation Menu with Images
 categories: [Component Guides, Wordpress Admin]
 author: Anna Browell
 ---
-{% include image.html img="nav_with_images.png" style="wide" lightbox="false" alt="Alt for image" caption="Navigation Menu with Images" %}
+{% include image.html img="menu_dropdown.png" style="wide" lightbox="false" alt="Alt for image" caption="Navigation Menu with Images" %}
 
 
 ## Description
 
-Easy navigation is critical to keeping a visitor on your website. This clear and simple header navigation component will allow you to incorporate a logo, section titles, and informative menu options with supporting graphics. It also has the functionality to include one or more CTA buttons e.g. Enroll Today.
+There are two ways you can organise your menu, it can be a text dropdown style that supports sub level menus or you can organise your menus into dropdown frames with images.
 
-{% include image.html img="cta_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="CTA Setup" %}
+To edit existing dropdown frames with images please see the following article.
+
+Edit Navigation Menu
+
+In Wordpress your navigation menus are set up under the Appearance tab in the admin area, this is the case for both menu types. You will notice that all of your menu headings are included without indents then each sub menu is indented below. You can drag and drop to re-organise this menu or you can search for a new page to include under an existing heading.
+
+{% include image.html img="menu_indented.png" style="wide" lightbox="false" alt="Alt for image" caption="Menu Settings" %}
 
 
-## Using the Navigation Menu Component
+## Editing the drop down menu
 
 
-1. Open a WPBakery Frontend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
-3. Navigate to the section Next-Gen
-4. Find the "CTA component" and click the option
+1. Navigate to the admin area of your site
+2. Click on Appearance and then Menus
+3. Drag and drop to reorganise your existing menu
+4. Expand an existing item to delete it from the menu
+5. On the left side in the pages block you can select or search for any new pages to add to the menu
+6. First find the page you need select the check box and click add to menu
+7. Make sure to click Save Menu to apply your changes
 
 
 ## Pro Tip

@@ -11,16 +11,16 @@ author: Anna Browell
 
 After adding a BG full size with form component you may want to add details on what leads are registering for. We have provided 4 fields a title and description included on the left, and a title a description specific to the form. We would recommend adding any list details on the form description.
 
-{% include image.html img="lead_form_section_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Lead form settings" %}
+{% include image.html img="lead_form_section_settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Lead Form with Background settings" %}
 
 
-## Using the BG full size with form  Component
+## Using the Lead Form with Background Component
 
 
 1. Open a WPBakery Frontend Editor on the page you want to modify
 2. Click the + symbol on the top menu to open the component menu
 3. Navigate to the section Next-Gen
-4. Find the "BG full size with form" and click the option
+4. Find the "Lead Form with Background" and click the option
 5. The settings box will open
 6. Add a Title and select the form you want to link it to
 7. You will need to open out the design options settings to select a background image
