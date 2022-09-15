@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add Navigation Menu with Images
+title: Add Navigation Menu Dropdown
 categories: [Component Guides, Wordpress Admin]
 author: Anna Browell
 ---
@@ -13,7 +13,7 @@ There are two ways you can organise your menu, it can be a text dropdown style t
 
 To edit existing dropdown frames with images please see the following article.
 
-Edit Navigation Menu
+[Edit Navigation Menu](/nextgen/EditNavigationMenu/)
 
 In Wordpress your navigation menus are set up under the Appearance tab in the admin area, this is the case for both menu types. You will notice that all of your menu headings are included without indents then each sub menu is indented below. You can drag and drop to re-organise this menu or you can search for a new page to include under an existing heading.
 

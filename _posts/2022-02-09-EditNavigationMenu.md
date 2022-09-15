@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Edit Navigation Menu
+title: Edit Navigation Menu with Images
 categories: [Component Guides]
 author: Anna Browell
 ---
