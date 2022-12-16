@@ -1,11 +1,27 @@
 [
   
     {
+      "title"    : "How To Set Page Visibility",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404/",
+      "date"     : "2022-12-09 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Managing Draft &amp; Unpublished Pages",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/nextgen/ManagingDraft&UnpublishedPages/",
+      "date"     : "2022-09-13 00:00:00 +0530"
+    } ,
+  
+    {
       "title"    : "Recommended Component Usage on a Page",
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/RecommendedComponentUsage/",
-      "date"     : "2022-08-12 00:00:00 +0700"
+      "date"     : "2022-08-12 00:00:00 +0530"
     } ,
   
     {
@@ -13,7 +29,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/OptimiseImages/",
-      "date"     : "2022-07-29 00:00:00 +0700"
+      "date"     : "2022-07-29 00:00:00 +0530"
     } ,
   
     {
@@ -21,7 +37,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/LoggingIntoStagingEnvironments/",
-      "date"     : "2022-07-14 00:00:00 +0700"
+      "date"     : "2022-07-14 00:00:00 +0530"
     } ,
   
     {
@@ -29,7 +45,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/ImportExportForms/",
-      "date"     : "2022-07-14 00:00:00 +0700"
+      "date"     : "2022-07-14 00:00:00 +0530"
     } ,
   
     {
@@ -37,7 +53,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/ExportFormEntries/",
-      "date"     : "2022-07-14 00:00:00 +0700"
+      "date"     : "2022-07-14 00:00:00 +0530"
     } ,
   
     {
@@ -45,7 +61,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/EditingForms/",
-      "date"     : "2022-07-14 00:00:00 +0700"
+      "date"     : "2022-07-14 00:00:00 +0530"
     } ,
   
     {
@@ -53,7 +69,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/FindLeadDetails/",
-      "date"     : "2022-07-07 00:00:00 +0700"
+      "date"     : "2022-07-07 00:00:00 +0530"
     } ,
   
     {
@@ -61,7 +77,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddEmoticonTestimonials/",
-      "date"     : "2022-05-29 00:00:00 +0700"
+      "date"     : "2022-05-29 00:00:00 +0530"
     } ,
   
     {
@@ -69,7 +85,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/HowToUseThePopUpCPT/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -77,7 +93,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/HowToReOrderTestimonials/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -85,7 +101,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/HowToEditTheFormTitlesAndDescriptions/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -93,7 +109,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/HowToEditTables/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -101,7 +117,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddTheCardPopUpsComponent/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -109,7 +125,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddStatisticsSplitter/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -117,7 +133,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddRightImageCTA/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -125,7 +141,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddGradeCalculator/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -133,7 +149,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddFeeCalculator/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -141,7 +157,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddEventComponent/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -149,7 +165,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddCalendarComponent/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -157,7 +173,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddAVideoBanner/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -165,7 +181,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddASlidingBanner/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -173,7 +189,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/Add3GalleryImageWithTitle/",
-      "date"     : "2022-05-20 00:00:00 +0700"
+      "date"     : "2022-05-20 00:00:00 +0530"
     } ,
   
     {
@@ -181,7 +197,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/SettingUpAGrid/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -189,7 +205,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/ManageUserRoles/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -197,7 +213,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/ManagePageContent/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -205,7 +221,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/ManageGlobalDefinitions/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -213,7 +229,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/DeleteComponent/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -221,7 +237,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/CPT-Testimonials/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -229,7 +245,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/CPT-Teachers/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -237,7 +253,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/CPT-Galleries/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -245,7 +261,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddTimeline/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -253,7 +269,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddStatisticsWithNumbers/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -261,7 +277,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddStatisticsWithMap/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -269,7 +285,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddStatisticsWithLeftImage/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -277,7 +293,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddStatisticsWith4Columns/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -285,7 +301,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddStatisticsCharts/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -293,7 +309,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddSingleImage/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -301,7 +317,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddPragraphStyleWith4Columns/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -309,7 +325,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddPragraphStyleWith3Columns/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -317,7 +333,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddPragraphStyleWith2Columns/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -325,7 +341,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddPragraphStyleSingleColumn/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -333,7 +349,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddPragraphStyleLists/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -341,7 +357,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddPragraphStyleFeatures/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -349,7 +365,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddMapWithPhotos/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -357,7 +373,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddLogoSlider/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -365,7 +381,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddFormLead/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -373,7 +389,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddFormEnquiry/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -381,7 +397,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddCardPageLinks/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -389,7 +405,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddANewPage/",
-      "date"     : "2022-03-19 00:00:00 +0700"
+      "date"     : "2022-03-19 00:00:00 +0530"
     } ,
   
     {
@@ -397,7 +413,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/EditHeroBanner/",
-      "date"     : "2022-03-12 00:00:00 +0700"
+      "date"     : "2022-03-12 00:00:00 +0530"
     } ,
   
     {
@@ -405,7 +421,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddSubpageHero/",
-      "date"     : "2022-03-12 00:00:00 +0700"
+      "date"     : "2022-03-12 00:00:00 +0530"
     } ,
   
     {
@@ -413,7 +429,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddSocialFeed/",
-      "date"     : "2022-03-12 00:00:00 +0700"
+      "date"     : "2022-03-12 00:00:00 +0530"
     } ,
   
     {
@@ -421,7 +437,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddHeroWithLeadForm/",
-      "date"     : "2022-03-12 00:00:00 +0700"
+      "date"     : "2022-03-12 00:00:00 +0530"
     } ,
   
     {
@@ -429,15 +445,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddHeroFullWidthImage/",
-      "date"     : "2022-03-12 00:00:00 +0700"
+      "date"     : "2022-03-12 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "Add Navigation Menu with Images",
+      "title"    : "Add Navigation Menu Dropdown",
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddHeaderNavigation/",
-      "date"     : "2022-03-12 00:00:00 +0700"
+      "date"     : "2022-03-12 00:00:00 +0530"
     } ,
   
     {
@@ -445,15 +461,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/EditTestimonialsComponent/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "Edit Navigation Menu",
+      "title"    : "Edit Navigation Menu with Images",
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/EditNavigationMenu/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -461,7 +477,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/EditGalleryCarousel/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -469,7 +485,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/EditCards/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -477,7 +493,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/CategoriseArticle/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -485,7 +501,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddTitle/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -493,7 +509,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddTestimonialsTextSlider/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -501,7 +517,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddTestimonialsSplitter/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -509,7 +525,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddTestimonialsCards/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -517,7 +533,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddTestimonialSlider/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -525,7 +541,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddSubscribeFormSection/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -533,7 +549,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddOurTeachersSlider/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -541,7 +557,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddOurTeachersLeadership/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -549,7 +565,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddOurTeachersGridLayout/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -557,7 +573,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddLeftAlignedCTA/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -565,7 +581,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddLeadFormSection/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -573,7 +589,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddLandingPage/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -581,7 +597,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddGalleryMasonry/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -589,7 +605,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddGalleryCarousel/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -597,7 +613,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddFooterWithMap/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -605,7 +621,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddFooterWithCTA/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -613,7 +629,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddFAQ/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -621,7 +637,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddDownloadablesLinks2Column/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -629,7 +645,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddDownloadablesLinks1Column/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -637,7 +653,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddCards/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -645,7 +661,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddCTAWithBGImage/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -653,7 +669,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddCTA/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -661,7 +677,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBodyLayoutVideoGrid/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -669,7 +685,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBodyLayoutSmallLeftImage/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -677,7 +693,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBodyLayoutSmallImage/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -685,7 +701,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBodyLayoutNumberedGrid/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -693,7 +709,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBodyLayoutHalfScreenImage/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -701,7 +717,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBodyLayoutFullScreenBGImage/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -709,15 +725,15 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBlogResults/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
-      "title"    : "Add Blog Highlights",
+      "title"    : "Add Related Blog Articles",
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBlogHighlights/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } ,
   
     {
@@ -725,7 +741,7 @@
       "category" : "",
       "tags"     : "",
       "url"      : "/nextgen/AddBlogArticle/",
-      "date"     : "2022-02-09 00:00:00 +0700"
+      "date"     : "2022-02-09 00:00:00 +0530"
     } 
   
 ]

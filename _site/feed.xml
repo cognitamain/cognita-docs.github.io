@@ -1,4 +1,82 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/nextgen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nextgen/" rel="alternate" type="text/html" /><updated>2022-08-22T16:13:25+07:00</updated><id>http://localhost:4000/nextgen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">Recommended Component Usage on a Page</title><link href="http://localhost:4000/nextgen/RecommendedComponentUsage/" rel="alternate" type="text/html" title="Recommended Component Usage on a Page" /><published>2022-08-12T00:00:00+07:00</published><updated>2022-08-12T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/RecommendedComponentUsage</id><content type="html" xml:base="http://localhost:4000/nextgen/RecommendedComponentUsage/"><![CDATA[<figure>
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/nextgen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nextgen/" rel="alternate" type="text/html" /><updated>2022-12-16T19:11:31+05:30</updated><id>http://localhost:4000/nextgen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">How To Set Page Visibility</title><link href="http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404/" rel="alternate" type="text/html" title="How To Set Page Visibility" /><published>2022-12-09T00:00:00+05:30</published><updated>2022-12-09T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/subpage_beforeupdate.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>To prevent a subpage from having 404-page error the visibility of its Parent Page should not be set as Private. The Parent Page should always be set to public if we want to show its subpage for the right permalinks structure. Please see below in the screenshots how to set the Parent Page to Public.</p>
+
+<h2 id="using-the-page-visibility">Using the Page Visibility</h2>
+
+<p>In the above screenshots we want to show “Choosing the Right School Page” under the “Admissions”. So, when we will edit the Subpage (Choosing the Right School Page), we will have to select Admissions as its parent from the dropdown -&gt; Page Attributes as shown in above screenshot. And if the Parent page (Admissions) is set to Private it will not be visible in the dropdown list. In such case there will be no parent as shown below: `</p>
+
+<p>Subpage:</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/subpage_beforeupdate.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>If any page was set on private before, and this time if we have made some changes (like content changes).</p>
+
+<p>Parent page :</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/parentpage_visibility_private.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>Subpage after some content update with out doing any ohter setting:</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/subpage_URLchanges_afterupdate.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>And we update and save the subpage without parent it will cause 404 error on frontend.</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/subpage_afterupdate.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>So, to prevent this we need to set page visibility to public &amp; then choose the parent page from the dropdown of page Attributes (Parent) and then update/save that page with the latest changes.</p>
+
+<p>In parent page we have to like :</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/parentpage_visibility_changedTopublic.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>And in subpage we need to do like :</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/choose_parentPage.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>After if we see the page it will be working</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/working_subpage_afterupdate.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<h2 id="pro-tip">Pro Tip</h2>
+<blockquote>
+  <p>Make sure the visibility of parent page should always be public for its inner pages working.</p>
+</blockquote>]]></content><author><name>Himani Guleria</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Timeline Settings]]></summary></entry><entry><title type="html">Managing Draft &amp;amp; Unpublished Pages</title><link href="http://localhost:4000/nextgen/ManagingDraft&UnpublishedPages/" rel="alternate" type="text/html" title="Managing Draft &amp;amp; Unpublished Pages" /><published>2022-09-13T00:00:00+05:30</published><updated>2022-09-13T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/ManagingDraft&amp;UnpublishedPages</id><content type="html" xml:base="http://localhost:4000/nextgen/ManagingDraft&amp;UnpublishedPages/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/publish_draft.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Publish Settings</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>When you are working on a new page it is possible to set the Publish Status to Draft. This will allow logged in users to preview the page for approval before end users are able to see it on your website.</p>
+
+<p>When you are ready to publish the new page, simply go to Pages in the admin area and find and edit the page you want to publish. On the right side of the page you will notice the Publish settings with two buttons Save Draft to apply your changes without publishing or Publish.</p>]]></content><author><name>James Shimell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Publish Settings]]></summary></entry><entry><title type="html">Recommended Component Usage on a Page</title><link href="http://localhost:4000/nextgen/RecommendedComponentUsage/" rel="alternate" type="text/html" title="Recommended Component Usage on a Page" /><published>2022-08-12T00:00:00+05:30</published><updated>2022-08-12T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/RecommendedComponentUsage</id><content type="html" xml:base="http://localhost:4000/nextgen/RecommendedComponentUsage/"><![CDATA[<figure>
     <img src="http://localhost:4000/nextgen/assets/posts/recommended_components.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Recommended page size</span></figcaption>
 </figure>
@@ -17,7 +95,7 @@
 
 <blockquote>
   <p>Even though you are trying to reduce the content for page speed performance, you will still need to have a minimum of 300 words on each page so the SEO performance does not get effected.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Recommended page size]]></summary></entry><entry><title type="html">Optimising Images</title><link href="http://localhost:4000/nextgen/OptimiseImages/" rel="alternate" type="text/html" title="Optimising Images" /><published>2022-07-29T00:00:00+07:00</published><updated>2022-07-29T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/OptimiseImages</id><content type="html" xml:base="http://localhost:4000/nextgen/OptimiseImages/"><![CDATA[<figure>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Recommended page size]]></summary></entry><entry><title type="html">Optimising Images</title><link href="http://localhost:4000/nextgen/OptimiseImages/" rel="alternate" type="text/html" title="Optimising Images" /><published>2022-07-29T00:00:00+05:30</published><updated>2022-07-29T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/OptimiseImages</id><content type="html" xml:base="http://localhost:4000/nextgen/OptimiseImages/"><![CDATA[<figure>
     <img src="http://localhost:4000/nextgen/assets/posts/optimise_image_header.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Optimising Images</span></figcaption>
 </figure>
@@ -89,141 +167,7 @@
 
 <h2 id="file-type">File type</h2>
 
-<p>While browsers can display many image formats, Wordpress VIP has an additional image compression option that has been activated for JPG/JPEG images. When you upload JPG images on your site Wordpress VIP will deliver the images as WEBP this is a next generation image compression that will further optimise your page load speed.</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Optimising Images]]></summary></entry><entry><title type="html">Editing Form Details</title><link href="http://localhost:4000/nextgen/EditingForms/" rel="alternate" type="text/html" title="Editing Form Details" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/EditingForms</id><content type="html" xml:base="http://localhost:4000/nextgen/EditingForms/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/form_forms.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Form Entries</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Your webforms are linked to Dynamics in order for leads to be directly loaded into your own schools workspace, this connection requires the forms to be set up in a specific way and small modifications to the form can break this connection. For this reason all changes to forms should be tested in the staging environments.</p>
-
-<p>This tutorial will guide you through making changes to the forms and testing your changes. Please see the linked guides for instructions on logging into the staging environments and exporting and importing your forms.</p>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/form_edit.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Edit Form</span></figcaption>
-</figure>
-
-<h2 id="editing-your-form">Editing your form</h2>
-
-<ol>
-  <li>Log in to your testing environment, you will need School Admin access to make changes to forms
-    <ul>
-      <li>Guide to Access <a href="/nextgen/LoggingIntoStagingEnvironments/">Testing environment</a></li>
-    </ul>
-  </li>
-  <li>Navigate to Forms and select ‘Forms’ on the dropdown menu</li>
-  <li>This screen will show you a copy of your existing forms on your live site</li>
-  <li>Find the form you want to update or duplicate an existing form to make changes to</li>
-  <li>Click Edit to modify the order of fields or add any additional fields
-    <ul>
-      <li>Please note that additional fields will only be added to the lead entries on your site or in the lead notification emails.</li>
-      <li>Please consult Hypercare to see if field data can be added to the Dynamics connection</li>
-    </ul>
-  </li>
-</ol>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/form_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Form Settings</span></figcaption>
-</figure>
-
-<h2 id="changing-your-form-name">Changing your form name</h2>
-
-<ol>
-  <li>Go to Form Settings</li>
-  <li>Edit the Form Title - this is how the form will be named in Dynamics</li>
-  <li>Scroll to the bottom and click ‘Save Settings’</li>
-</ol>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/form_notifications.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Notifications</span></figcaption>
-</figure>
-
-<h2 id="adding-email-addresses-to-the-lead-notification-distribution">Adding email addresses to the Lead notification distribution</h2>
-
-<ol>
-  <li>Go to Form Settings and navigate to Notifications</li>
-  <li>Open the Notification named ‘Admin Notification’</li>
-  <li>From this page you can add email addresses to the distribution list by separating emails with a comma</li>
-  <li>You may also remove email addresses from the distribution list</li>
-  <li>After making your changes, scroll to the bottom and click ‘Update Notification’</li>
-</ol>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/form_talend.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Portal/Talend Config</span></figcaption>
-</figure>
-
-<h2 id="preparing-your-form-for-testing">Preparing your form for testing</h2>
-
-<ol>
-  <li>Go to the Form Settings -&gt; Portal/Talend Config</li>
-  <li>Change the field from Production to UAT, scroll to the very bottom of the page and click ‘Save Settings’</li>
-</ol>
-
-<h2 id="export-your-form">Export your form</h2>
-
-<p>Please see the guide <a href="/nextgen/ImportExportForms/">here</a> to export your form</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Form Entries]]></summary></entry><entry><title type="html">Import / Export Forms</title><link href="http://localhost:4000/nextgen/ImportExportForms/" rel="alternate" type="text/html" title="Import / Export Forms" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/ImportExportForms</id><content type="html" xml:base="http://localhost:4000/nextgen/ImportExportForms/"><![CDATA[<h2 id="description">Description</h2>
-
-<p>The forms section provides the option to export the form settings of an individual forms or all of the forms on hosted your site. This gives users an easy way to transfer forms between different environments. However when you are testing the forms you will need to switch between the your testing Dynamics environment (UAT) and the live Dynamics environment (Prod). This ensures that the leads you create when testing do not go into your active Dynamics workspace.</p>
-
-<h2 id="importing-your-form">Importing your form</h2>
-
-<ol>
-  <li>Navigate to Forms-&gt; Import/Export -&gt; Import Form</li>
-  <li>Select the form you want to import from your device and click Import</li>
-  <li>You will receive a notification that the import was successful</li>
-  <li>Now if you navigate to Forms you will see the form you just imported</li>
-  <li>Remember to Switch the Portal/Talend Mapping from UAT to Production
-    <ul>
-      <li>Further details on this can be found <a href="/nextgen/EditingForms/">here</a></li>
-    </ul>
-  </li>
-</ol>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/form_import.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Import Forms</span></figcaption>
-</figure>
-
-<h2 id="exporting-you-form">Exporting you form</h2>
-
-<ol>
-  <li>Navigate to Forms-&gt; Import/Export -&gt; Export Form</li>
-  <li>Select the form or forms you want to export and click Download Export File</li>
-  <li>This will save the form settings on your device in a JSON file</li>
-</ol>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/form_export.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Forms</span></figcaption>
-</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Description]]></summary></entry><entry><title type="html">Export Forms Entries</title><link href="http://localhost:4000/nextgen/ExportFormEntries/" rel="alternate" type="text/html" title="Export Forms Entries" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/ExportFormEntries</id><content type="html" xml:base="http://localhost:4000/nextgen/ExportFormEntries/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/entries_export_form.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Entries</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>The forms section provides the option to export the lead entries directly from your website admin area. This can be useful if you want to compare against the leads that have been automatically loaded into dynamics. This article guides you to on exporting your leads from your site into an excel file.</p>
-
-<h2 id="exporting-you-form">Exporting you form</h2>
-
-<ol>
-  <li>Navigate to Forms-&gt; Import/Export -&gt; Export Form</li>
-  <li>Select the form you want to see the lead entries for</li>
-  <li>Select which fields you would like included in the export</li>
-  <li>Limit the date range of the entries you want to export</li>
-  <li>You can add additional conditions to filter results even further</li>
-  <li>Finally download the Export File</li>
-</ol>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/entries_export_filter.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Filters</span></figcaption>
-</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Export Entries]]></summary></entry><entry><title type="html">Logging in to Test Website</title><link href="http://localhost:4000/nextgen/LoggingIntoStagingEnvironments/" rel="alternate" type="text/html" title="Logging in to Test Website" /><published>2022-07-14T00:00:00+07:00</published><updated>2022-07-14T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/LoggingIntoStagingEnvironments</id><content type="html" xml:base="http://localhost:4000/nextgen/LoggingIntoStagingEnvironments/"><![CDATA[<figure>
+<p>While browsers can display many image formats, Wordpress VIP has an additional image compression option that has been activated for JPG/JPEG images. When you upload JPG images on your site Wordpress VIP will deliver the images as WEBP this is a next generation image compression that will further optimise your page load speed.</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Optimising Images]]></summary></entry><entry><title type="html">Logging in to Test Website</title><link href="http://localhost:4000/nextgen/LoggingIntoStagingEnvironments/" rel="alternate" type="text/html" title="Logging in to Test Website" /><published>2022-07-14T00:00:00+05:30</published><updated>2022-07-14T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/LoggingIntoStagingEnvironments</id><content type="html" xml:base="http://localhost:4000/nextgen/LoggingIntoStagingEnvironments/"><![CDATA[<figure>
     <img src="http://localhost:4000/nextgen/assets/posts/logging_in.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Staging Login</span></figcaption>
 </figure>
@@ -326,7 +270,141 @@
   <li>Use the same username and password as you use on your live site</li>
   <li>You will now need the authentication code that you use on your live site</li>
   <li>You are now logged in to the staging environment</li>
-</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Staging Login]]></summary></entry><entry><title type="html">Find your lead details</title><link href="http://localhost:4000/nextgen/FindLeadDetails/" rel="alternate" type="text/html" title="Find your lead details" /><published>2022-07-07T00:00:00+07:00</published><updated>2022-07-07T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/FindLeadDetails</id><content type="html" xml:base="http://localhost:4000/nextgen/FindLeadDetails/"><![CDATA[<figure>
+</ol>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Staging Login]]></summary></entry><entry><title type="html">Import / Export Forms</title><link href="http://localhost:4000/nextgen/ImportExportForms/" rel="alternate" type="text/html" title="Import / Export Forms" /><published>2022-07-14T00:00:00+05:30</published><updated>2022-07-14T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/ImportExportForms</id><content type="html" xml:base="http://localhost:4000/nextgen/ImportExportForms/"><![CDATA[<h2 id="description">Description</h2>
+
+<p>The forms section provides the option to export the form settings of an individual forms or all of the forms on hosted your site. This gives users an easy way to transfer forms between different environments. However when you are testing the forms you will need to switch between the your testing Dynamics environment (UAT) and the live Dynamics environment (Prod). This ensures that the leads you create when testing do not go into your active Dynamics workspace.</p>
+
+<h2 id="importing-your-form">Importing your form</h2>
+
+<ol>
+  <li>Navigate to Forms-&gt; Import/Export -&gt; Import Form</li>
+  <li>Select the form you want to import from your device and click Import</li>
+  <li>You will receive a notification that the import was successful</li>
+  <li>Now if you navigate to Forms you will see the form you just imported</li>
+  <li>Remember to Switch the Portal/Talend Mapping from UAT to Production
+    <ul>
+      <li>Further details on this can be found <a href="/nextgen/EditingForms/">here</a></li>
+    </ul>
+  </li>
+</ol>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/form_import.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Import Forms</span></figcaption>
+</figure>
+
+<h2 id="exporting-you-form">Exporting you form</h2>
+
+<ol>
+  <li>Navigate to Forms-&gt; Import/Export -&gt; Export Form</li>
+  <li>Select the form or forms you want to export and click Download Export File</li>
+  <li>This will save the form settings on your device in a JSON file</li>
+</ol>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/form_export.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Forms</span></figcaption>
+</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Description]]></summary></entry><entry><title type="html">Export Forms Entries</title><link href="http://localhost:4000/nextgen/ExportFormEntries/" rel="alternate" type="text/html" title="Export Forms Entries" /><published>2022-07-14T00:00:00+05:30</published><updated>2022-07-14T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/ExportFormEntries</id><content type="html" xml:base="http://localhost:4000/nextgen/ExportFormEntries/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/entries_export_form.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Entries</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>The forms section provides the option to export the lead entries directly from your website admin area. This can be useful if you want to compare against the leads that have been automatically loaded into dynamics. This article guides you to on exporting your leads from your site into an excel file.</p>
+
+<h2 id="exporting-you-form">Exporting you form</h2>
+
+<ol>
+  <li>Navigate to Forms-&gt; Import/Export -&gt; Export Form</li>
+  <li>Select the form you want to see the lead entries for</li>
+  <li>Select which fields you would like included in the export</li>
+  <li>Limit the date range of the entries you want to export</li>
+  <li>You can add additional conditions to filter results even further</li>
+  <li>Finally download the Export File</li>
+</ol>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/entries_export_filter.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Export Filters</span></figcaption>
+</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Export Entries]]></summary></entry><entry><title type="html">Editing Form Details</title><link href="http://localhost:4000/nextgen/EditingForms/" rel="alternate" type="text/html" title="Editing Form Details" /><published>2022-07-14T00:00:00+05:30</published><updated>2022-07-14T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/EditingForms</id><content type="html" xml:base="http://localhost:4000/nextgen/EditingForms/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/form_forms.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Form Entries</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>Your webforms are linked to Dynamics in order for leads to be directly loaded into your own schools workspace, this connection requires the forms to be set up in a specific way and small modifications to the form can break this connection. For this reason all changes to forms should be tested in the staging environments.</p>
+
+<p>This tutorial will guide you through making changes to the forms and testing your changes. Please see the linked guides for instructions on logging into the staging environments and exporting and importing your forms.</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/form_edit.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Edit Form</span></figcaption>
+</figure>
+
+<h2 id="editing-your-form">Editing your form</h2>
+
+<ol>
+  <li>Log in to your testing environment, you will need School Admin access to make changes to forms
+    <ul>
+      <li>Guide to Access <a href="/nextgen/LoggingIntoStagingEnvironments/">Testing environment</a></li>
+    </ul>
+  </li>
+  <li>Navigate to Forms and select ‘Forms’ on the dropdown menu</li>
+  <li>This screen will show you a copy of your existing forms on your live site</li>
+  <li>Find the form you want to update or duplicate an existing form to make changes to</li>
+  <li>Click Edit to modify the order of fields or add any additional fields
+    <ul>
+      <li>Please note that additional fields will only be added to the lead entries on your site or in the lead notification emails.</li>
+      <li>Please consult Hypercare to see if field data can be added to the Dynamics connection</li>
+    </ul>
+  </li>
+</ol>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/form_settings.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Form Settings</span></figcaption>
+</figure>
+
+<h2 id="changing-your-form-name">Changing your form name</h2>
+
+<ol>
+  <li>Go to Form Settings</li>
+  <li>Edit the Form Title - this is how the form will be named in Dynamics</li>
+  <li>Scroll to the bottom and click ‘Save Settings’</li>
+</ol>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/form_notifications.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Notifications</span></figcaption>
+</figure>
+
+<h2 id="adding-email-addresses-to-the-lead-notification-distribution">Adding email addresses to the Lead notification distribution</h2>
+
+<ol>
+  <li>Go to Form Settings and navigate to Notifications</li>
+  <li>Open the Notification named ‘Admin Notification’</li>
+  <li>From this page you can add email addresses to the distribution list by separating emails with a comma</li>
+  <li>You may also remove email addresses from the distribution list</li>
+  <li>After making your changes, scroll to the bottom and click ‘Update Notification’</li>
+</ol>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/form_talend.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Portal/Talend Config</span></figcaption>
+</figure>
+
+<h2 id="preparing-your-form-for-testing">Preparing your form for testing</h2>
+
+<ol>
+  <li>Go to the Form Settings -&gt; Portal/Talend Config</li>
+  <li>Change the field from Production to UAT, scroll to the very bottom of the page and click ‘Save Settings’</li>
+</ol>
+
+<h2 id="export-your-form">Export your form</h2>
+
+<p>Please see the guide <a href="/nextgen/ImportExportForms/">here</a> to export your form</p>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Form Entries]]></summary></entry><entry><title type="html">Find your lead details</title><link href="http://localhost:4000/nextgen/FindLeadDetails/" rel="alternate" type="text/html" title="Find your lead details" /><published>2022-07-07T00:00:00+05:30</published><updated>2022-07-07T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/FindLeadDetails</id><content type="html" xml:base="http://localhost:4000/nextgen/FindLeadDetails/"><![CDATA[<figure>
     <img src="http://localhost:4000/nextgen/assets/posts/entries_menu.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Form Entries</span></figcaption>
 </figure>
@@ -363,7 +441,7 @@
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/entries_detail.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Complete lead details</span></figcaption>
-</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Form Entries]]></summary></entry><entry><title type="html">Add Emoticons Testimonial</title><link href="http://localhost:4000/nextgen/AddEmoticonTestimonials/" rel="alternate" type="text/html" title="Add Emoticons Testimonial" /><published>2022-05-29T00:00:00+07:00</published><updated>2022-05-29T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/AddEmoticonTestimonials</id><content type="html" xml:base="http://localhost:4000/nextgen/AddEmoticonTestimonials/"><![CDATA[<figure>
+</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Form Entries]]></summary></entry><entry><title type="html">Add Emoticons Testimonial</title><link href="http://localhost:4000/nextgen/AddEmoticonTestimonials/" rel="alternate" type="text/html" title="Add Emoticons Testimonial" /><published>2022-05-29T00:00:00+05:30</published><updated>2022-05-29T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/AddEmoticonTestimonials</id><content type="html" xml:base="http://localhost:4000/nextgen/AddEmoticonTestimonials/"><![CDATA[<figure>
     <img src="http://localhost:4000/nextgen/assets/posts/emoticons.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Emoticons</span></figcaption>
 </figure>
@@ -392,68 +470,4 @@
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
   <p>Use the Dynamic template to add your own custom quotes, but make sure to use at least two word lines.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Emoticons]]></summary></entry><entry><title type="html">Add a CTA (right image)</title><link href="http://localhost:4000/nextgen/AddRightImageCTA/" rel="alternate" type="text/html" title="Add a CTA (right image)" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/AddRightImageCTA</id><content type="html" xml:base="http://localhost:4000/nextgen/AddRightImageCTA/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/right-image-cta.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">CTA Image Right</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Call to action (CTA) buttons are probably the most essential elements on your web pages. If you want your website to drive a significant amount of parents and guardians to consider your school for their child, then this content is vital to your faculty. A CTA button makes it easy for a user to engage. This 2 column component will allow your CTAs to stand out on the page. It also provides space to include one or two buttons and text to encourage the visitor to take the next step in their search for a new school.</p>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/right-image-cta-settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">CTA Right Image Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-cta-component">Using the CTA Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option CTA cenetered</li>
-  <li>The settings box will open out select the template ‘Display image on the right full width’</li>
-  <li>You will need to first add the image to be shown</li>
-  <li>Now add the title and a short description</li>
-  <li>Finally add your button names and urls</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>If you choose to only show one button then leave the field blank and the button will not display.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[CTA Image Right]]></summary></entry><entry><title type="html">Add a Pop Up Component</title><link href="http://localhost:4000/nextgen/HowToUseThePopUpCPT/" rel="alternate" type="text/html" title="Add a Pop Up Component" /><published>2022-05-20T00:00:00+07:00</published><updated>2022-05-20T00:00:00+07:00</updated><id>http://localhost:4000/nextgen/HowToUseThePopUpCPT</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToUseThePopUpCPT/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/popupcomponent.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>The pop up component allows you to reduce the text content on the page by only showing a brief description on the page and opening out to the full details inside a dialogue box. From a users perspective it makes the content more manageable and easier to find other content if this content is not what they are looking for.</p>
-
-<p>This component is ideal for testimonials or key messages you want to share with you visitors.</p>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/popupcomponent-settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-pop-up-component">Using the Pop Up Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Parent with Pop Up</li>
-  <li>The settings box will open out set the amount of posts you want to show in the post count box</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-  <li>The content will be taken from the teachers cpt, you can edit these by going to the admin area and clicking teachers</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Use categories to organise your different content types, when creating the cpts</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Timeline]]></summary></entry></feed>
+</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Emoticons]]></summary></entry></feed>
