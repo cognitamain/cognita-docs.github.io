@@ -1,6 +1,7 @@
 [
   
     {
+<<<<<<< Updated upstream:_site/search.json
       "title"    : "Recommended Component Usage on a Page",
       "category" : "",
       "tags"     : "",
@@ -62,76 +63,124 @@
       "tags"     : "",
       "url"      : "/nextgen/AddEmoticonTestimonials/",
       "date"     : "2022-05-29 00:00:00 +0700"
+=======
+      "title"    : "How To Set Page Visibility",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/HowToSetPageVisibilityForParentAndPublicToPrevent404/",
+      "date"     : "2022-12-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Pop Up Component",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/HowToUseThePopUpCPT/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/HowToUseThePopUpCPT/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "How to re-order testimonials",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/HowToReOrderTestimonials/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/HowToReOrderTestimonials/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Edit form titles and descriptions",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/HowToEditTheFormTitlesAndDescriptions/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/HowToEditTheFormTitlesAndDescriptions/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "How to edit tables",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/HowToEditTables/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/HowToEditTables/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Card Link Pop Up",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddTheCardPopUpsComponent/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddTheCardPopUpsComponent/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Statistics Splitter",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddStatisticsSplitter/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsSplitter/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a CTA (right image)",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddRightImageCTA/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddRightImageCTA/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Grade Calculator",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddGradeCalculator/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddGradeCalculator/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Fee Calculator",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddFeeCalculator/",
       "date"     : "2022-05-20 00:00:00 +0700"
     } ,
@@ -142,340 +191,558 @@
       "tags"     : "",
       "url"      : "/nextgen/AddEventComponent/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddFeeCalculator/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Calendar Component",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddCalendarComponent/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddCalendarComponent/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Video Hero Banner",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddAVideoBanner/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddAVideoBanner/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Sliding Hero Banner",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddASlidingBanner/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddASlidingBanner-copy/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Three Image Gallery",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/Add3GalleryImageWithTitle/",
       "date"     : "2022-05-20 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/Add3GalleryImageWithTitle/",
+      "date"     : "2022-05-20 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "How to create rows &amp; columns in WPBakery",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/SettingUpAGrid/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/SettingUpAGrid/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Manage User Roles",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/ManageUserRoles/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/ManageUserRoles/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Manage Page Titles and SEO",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/ManagePageContent/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/ManagePageContent/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Edit your school details",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/ManageGlobalDefinitions/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/ManageGlobalDefinitions/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Remove a component from a page",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/DeleteComponent/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/DeleteComponent/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Manage Our Testimonials CPT",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/CPT-Testimonials/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Testimonials/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Manage Our Teachers CPT",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/CPT-Teachers/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Teachers/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Manage Galleries CPT",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/CPT-Galleries/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/CPT-Galleries/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Timeline",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddTimeline/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddTimeline/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Statistics With Numbers",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddStatisticsWithNumbers/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsWithNumbers/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Statistics With Map",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddStatisticsWithMap/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsWithMap/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Statistics Left Image",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddStatisticsWithLeftImage/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsWithLeftImage/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Statistics 4 Columns",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddStatisticsWith4Columns/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsWith4Columns/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Statistics With Charts",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddStatisticsCharts/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddStatisticsCharts/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Single Image",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddSingleImage/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddSingleImage/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Paragraph Style with 4 Columns",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddPragraphStyleWith4Columns/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleWith4Columns/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Paragraph Style with 3 Columns",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddPragraphStyleWith3Columns/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleWith3Columns/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Paragraph Style with 2 Columns",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddPragraphStyleWith2Columns/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleWith2Columns/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Paragraph Style with 1 Column",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddPragraphStyleSingleColumn/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleSingleColumn/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Paragraph Style Lists",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddPragraphStyleLists/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleLists/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Paragraph Style Features",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddPragraphStyleFeatures/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddPragraphStyleFeatures/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Map with Photos",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddMapWithPhotos/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddMapWithPhotos/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Logo slider",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddLogoSlider/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddLogoSlider/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Lead Form",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddFormLead/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddFormLead/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add an Enquiry Form",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddFormEnquiry/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddFormEnquiry/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Card Page Links",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddCardPageLinks/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddCardPageLinks/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Adding a new Wordpress page",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddANewPage/",
       "date"     : "2022-03-19 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddANewPage/",
+      "date"     : "2022-03-19 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Editing your Hero Banner",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/EditHeroBanner/",
       "date"     : "2022-03-12 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/EditHeroBanner/",
+      "date"     : "2022-03-12 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Subpage Hero Banner",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddSubpageHero/",
       "date"     : "2022-03-12 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddSubpageHero/",
+      "date"     : "2022-03-12 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add an Omni channel Social Feed",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddSocialFeed/",
       "date"     : "2022-03-12 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddSocialFeed/",
+      "date"     : "2022-03-12 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Hero Banner With Lead Form",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddHeroWithLeadForm/",
       "date"     : "2022-03-12 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddHeroWithLeadForm/",
+      "date"     : "2022-03-12 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Hero Header with Fullscreen Background Image",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddHeroFullWidthImage/",
       "date"     : "2022-03-12 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddHeroFullWidthImage/",
+      "date"     : "2022-03-12 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Navigation Menu with Images",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddHeaderNavigation/",
       "date"     : "2022-03-12 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddHeaderNavigation/",
+      "date"     : "2022-03-12 00:00:00 +0530"
+    } ,
+  
+    {
+      "title"    : "Add New Article",
+      "category" : "",
+      "tags"     : "",
+      "url"      : "/Shutta-Cognita-NextGen/NewArticle/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Edit Testimonial Components",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/EditTestimonialsComponent/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/EditTestimonialsComponent/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Edit Navigation Menu",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/EditNavigationMenu/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/EditNavigationMenu/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Edit Gallery Carousel",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/EditGalleryCarousel/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/EditGalleryCarousel/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Edit Cards",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/EditCards/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/EditCards/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Categorise Blog Articles",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/CategoriseArticle/",
       "date"     : "2022-02-09 00:00:00 +0700"
     } ,
@@ -486,246 +753,400 @@
       "tags"     : "",
       "url"      : "/nextgen/AddTitle/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/CategoriseArticle/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Testimonial Text Slider",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddTestimonialsTextSlider/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddTestimonialsTextSlider/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Testimonial Splitter With Profile",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddTestimonialsSplitter/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddTestimonialsSplitter/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Testimonial Cards",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddTestimonialsCards/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddTestimonialsCards/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Testimonials slider",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddTestimonialSlider/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddTestimonialSlider/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Subscribe Form Section",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddSubscribeFormSection/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddSubscribeFormSection/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Our Teachers Slider",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddOurTeachersSlider/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddOurTeachersSlider/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Our Teachers Leadership",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddOurTeachersLeadership/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddOurTeachersLeadership/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add the Teachers Grid Layout",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddOurTeachersGridLayout/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddOurTeachersGridLayout/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Left Aligned CTA",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddLeftAlignedCTA/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddLeftAlignedCTA/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Lead Form Section",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddLeadFormSection/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddLeadFormSection/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Set up a landing page",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddLandingPage/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddLandingPage/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Gallery Grid",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddGalleryMasonry/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddGalleryMasonry/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Gallery Carousel",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddGalleryCarousel/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddGalleryCarousel/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Footer with Map",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddFooterWithMap/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddFooterWithMap/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Footer with CTA",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddFooterWithCTA/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddFooterWithCTA/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add FAQ component",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddFAQ/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddFAQ/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Downloadable Double Column",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddDownloadablesLinks2Column/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddDownloadablesLinks2Column/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Downloadable Single Column",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddDownloadablesLinks1Column/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddDownloadablesLinks1Column/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Cards",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddCards/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddCards/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add CTA with Background Image",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddCTAWithBGImage/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddCTAWithBGImage/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add a Call to Action",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddCTA/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddCTA/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Body Layout Video Grid",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBodyLayoutVideoGrid/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutVideoGrid/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Body Layout Small Left Image",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBodyLayoutSmallLeftImage/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutSmallLeftImage/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Body Layout with Small Image",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBodyLayoutSmallImage/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutSmallImage/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Body Layout Numbered Grid",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBodyLayoutNumberedGrid/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutNumberedGrid/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Body Layout with Half Screen Image",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBodyLayoutHalfScreenImage/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutHalfScreenImage/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Body Layout with Fullscreen Background Image",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBodyLayoutFullScreenBGImage/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBodyLayoutFullScreenBGImage/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Blog Results",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBlogResults/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBlogResults/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Blog Highlights",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBlogHighlights/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBlogHighlights/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } ,
   
     {
       "title"    : "Add Blog Articles",
       "category" : "",
       "tags"     : "",
+<<<<<<< Updated upstream:_site/search.json
       "url"      : "/nextgen/AddBlogArticle/",
       "date"     : "2022-02-09 00:00:00 +0700"
+=======
+      "url"      : "/Shutta-Cognita-NextGen/AddBlogArticle/",
+      "date"     : "2022-02-09 00:00:00 +0530"
+>>>>>>> Stashed changes:nextgen/_site/search.json
     } 
   
 ]
