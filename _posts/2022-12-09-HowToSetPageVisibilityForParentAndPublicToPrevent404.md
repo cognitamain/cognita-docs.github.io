@@ -4,51 +4,53 @@ title: How To Set Page Visibility
 categories: [Wordpress Admin]
 author: Himani Guleria
 ---
-{% include image.html img="subpage_beforeupdate.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
+{% include image.html img="subpage_afterupdate.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
 
 
 ## Description
 
-To prevent a subpage from having 404-page error the visibility of its Parent Page should not be set as Private. The Parent Page should always be set to public if we want to show its subpage for the right permalinks structure. Please see below in the screenshots how to set the Parent Page to Public. 
+A subpage should not have its parent page's visibility set to private to prevent a 404-page error. The parent page should always be set to public if we want to show its subpages for the correct permalink structure.
 
 
 ## Using the Page Visibility
 
-In the above screenshots we want to show “Choosing the Right School Page” under the “Admissions”. So, when we will edit the Subpage (Choosing the Right School Page), we will have to select Admissions as its parent from the dropdown -> Page Attributes as shown in above screenshot. And if the Parent page (Admissions) is set to Private it will not be visible in the dropdown list. In such case there will be no parent as shown below: `
+In the below screenshot if we see the parent page and subpage and their page properties. We can see in the subpages that the parent page is not set (no parent). The parent page's visibility is set to private.
 
-Subpage: 
-
-{% include image.html img="subpage_beforeupdate.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
-
-If any page was set on private before, and this time if we have made some changes (like content changes). 
 
 Parent page :
 
 {% include image.html img="parentpage_visibility_private.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
 
-Subpage after some content update with out doing any ohter setting:
+Subpage: 
+
+{% include image.html img="subpage_beforeupdate.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
+
+Before any change in subpage content if we see *permalink* and page properties section. We can see that there is no parent selected and the parent page slug is added to the link.
+
+If a page was previously set to private, and this time if we have made some changes (like content changes).
+
+After a few content updates without any other settings the subpage will look like this in the admin side:
 
 {% include image.html img="subpage_URLchanges_afterupdate.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
 
-
-And we update and save the subpage without parent it will cause 404 error on frontend.  
+And we update and save the subpage without parent, it will cause 404 error on frontend.  
 
 {% include image.html img="subpage_afterupdate.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
 
-So, to prevent this we need to set page visibility to public & then choose the parent page from the dropdown of page Attributes (Parent) and then update/save that page with the latest changes. 
+So, to prevent this we need to make *parent page* visibility public and then in *subpage* select parent page from dropdown of page attributes (parent) and then update/save that page with latest changes. 
 
+In parent page we have to do setting like:
 
-In parent page we have to like :
 {% include image.html img="parentpage_visibility_changedTopublic.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
 
-And in subpage we need to do like :
+After these changes if we see the page, it will be like below screen
 
 {% include image.html img="choose_parentPage.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
 
-After if we see the page it will be working
+After these changes if we see the page, it will be like below screen
 
 {% include image.html img="working_subpage_afterupdate.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
   
 
 ## Pro Tip
-> Make sure the visibility of parent page should always be public for its inner pages working.
+> Make sure the parent page's visibility should always be public for its inner pages to work. And the parent page in the subpages should be selected appropriately.
