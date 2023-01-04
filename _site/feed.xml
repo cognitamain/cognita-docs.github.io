@@ -1,24 +1,345 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/nextgen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nextgen/" rel="alternate" type="text/html" /><updated>2022-12-16T19:11:31+05:30</updated><id>http://localhost:4000/nextgen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">How To Set Page Visibility</title><link href="http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404/" rel="alternate" type="text/html" title="How To Set Page Visibility" /><published>2022-12-09T00:00:00+05:30</published><updated>2022-12-09T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/subpage_beforeupdate.png" alt="Alt for image" />
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="3.9.1">Jekyll</generator><link href="http://localhost:4000/nextgen/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/nextgen/" rel="alternate" type="text/html" /><updated>2023-01-04T18:59:08+05:30</updated><id>http://localhost:4000/nextgen/feed.xml</id><title type="html">Next Gen</title><subtitle>Knowledge base for the use of the Next Gen components on Wordpress.</subtitle><author><name>James Shimell</name></author><entry><title type="html">How To Add Country Of Residence</title><link href="http://localhost:4000/nextgen/HowToAddCountryOfResidenceField/" rel="alternate" type="text/html" title="How To Add Country Of Residence" /><published>2022-12-09T00:00:00+05:30</published><updated>2022-12-09T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/HowToAddCountryOfResidenceField</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToAddCountryOfResidenceField/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/country_of_residence_search_field.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
 <h2 id="description">Description</h2>
 
-<p>To prevent a subpage from having 404-page error the visibility of its Parent Page should not be set as Private. The Parent Page should always be set to public if we want to show its subpage for the right permalinks structure. Please see below in the screenshots how to set the Parent Page to Public.</p>
+<p>To collect country of residence data on the CRM side. Searchable fields should be added to the form and need to be mapped.</p>
 
-<h2 id="using-the-page-visibility">Using the Page Visibility</h2>
+<h2 id="using-the-dropdown-field-in-form">Using the dropdown field in form</h2>
 
-<p>In the above screenshots we want to show “Choosing the Right School Page” under the “Admissions”. So, when we will edit the Subpage (Choosing the Right School Page), we will have to select Admissions as its parent from the dropdown -&gt; Page Attributes as shown in above screenshot. And if the Parent page (Admissions) is set to Private it will not be visible in the dropdown list. In such case there will be no parent as shown below: `</p>
-
-<p>Subpage:</p>
+<p>We need to choose the form first after login to the wordpress portal side. Then edit the form.</p>
 
 <figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/subpage_beforeupdate.png" alt="Alt for image" />
+    <img src="http://localhost:4000/nextgen/assets/posts/choose_the_form_to_add_ country_of_residence.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>If any page was set on private before, and this time if we have made some changes (like content changes).</p>
+<p>After edit the form see all the existing fields first &amp; then choose the dropdownfield from the sidebar menu like this :</p>
+
+<p>By using drag and drop we can add the field and choose the exact position / order where we have to put in the form .</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/drop_down_field_from_sidebar.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/just_clicked_dropdown.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>There are few case here if we just click on the field it will reach to the bottom of the page like this:</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/drag_drop_down_field.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>And second is to drag and drop like this :</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/change_add_title_options.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>Then add the field related details like :title, check required if needed.</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/add_options_onclick.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>Then to add a list of countries which are in the CRM side as well. Firstly we need to clear the predefined ones like :</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/clear_pre_defined.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>Then to add the countries list :</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/insert_choices.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/see_close_the_edit_choices.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>Next is to set the search box :</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/expand_apperance.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/check_and_save.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>After the changes we can see this in the front end side.</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/country_of_residence_search_field.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>To map this country field we can ask the website admin to map for <b>Dynamics</b>.</p>
+
+<p>Country list we are using :</p>
+
+<table><tbody>
+    <tr><td>Afghanistan</td></tr>
+    <tr><td>Albania</td></tr>
+    <tr><td>Algeria</td></tr>
+    <tr><td>American Samoa</td></tr>
+    <tr><td>Andorra</td></tr>
+    <tr><td>Angola</td></tr>
+    <tr><td>Anguilla</td></tr>
+    <tr><td>Antigua &amp; Barbuda</td></tr>
+    <tr><td>Argentina</td></tr>
+    <tr><td>Armenia</td></tr>
+    <tr><td>Aruba</td></tr>
+    <tr><td>Australia</td></tr>
+    <tr><td>Austria</td></tr>
+    <tr><td>Azerbaijan</td></tr>
+    <tr><td>Bahamas, The</td></tr>
+    <tr><td>Bahrain</td></tr>
+    <tr><td>Bangladesh</td></tr>
+    <tr><td>Barbados</td></tr>
+    <tr><td>Belarus</td></tr>
+    <tr><td>Belgium</td></tr>
+    <tr><td>Belize</td></tr>
+    <tr><td>Benin</td></tr>
+    <tr><td>Bermuda</td></tr>
+    <tr><td>Bhutan</td></tr>
+    <tr><td>Bolivia</td></tr>
+    <tr><td>Bosnia &amp; Herzegovina</td></tr>
+    <tr><td>Botswana</td></tr>
+    <tr><td>Brazil</td></tr>
+    <tr><td>British Virgin Is.</td></tr>
+    <tr><td>Brunei</td></tr>
+    <tr><td>Bulgaria</td></tr>
+    <tr><td>Burkina Faso</td></tr>
+    <tr><td>Burundi</td></tr>
+    <tr><td>Cambodia</td></tr>
+    <tr><td>Cameroon</td></tr>
+    <tr><td>Canada</td></tr>
+    <tr><td>Cape Verde</td></tr>
+    <tr><td>Cayman Islands</td></tr>
+    <tr><td>Central African Rep.</td></tr>
+    <tr><td>Chad</td></tr>
+    <tr><td>Chile</td></tr>
+    <tr><td>China</td></tr>
+    <tr><td>Colombia</td></tr>
+    <tr><td>Comoros</td></tr>
+    <tr><td>Congo, Dem. Rep.</td></tr>
+    <tr><td>Congo, Repub. of the</td></tr>
+    <tr><td>Cook Islands</td></tr>
+    <tr><td>Costa Rica</td></tr>
+    <tr><td>Cote d'Ivoire</td></tr>
+    <tr><td>Croatia</td></tr>
+    <tr><td>Cuba</td></tr>
+    <tr><td>Cyprus</td></tr>
+    <tr><td>Czech Republic</td></tr>
+    <tr><td>Denmark</td></tr>
+    <tr><td>Djibouti</td></tr>
+    <tr><td>Dominica</td></tr>
+    <tr><td>Dominican Republic</td></tr>
+    <tr><td>East Timor</td></tr>
+    <tr><td>Ecuador</td></tr>
+    <tr><td>Egypt</td></tr>
+    <tr><td>El Salvador</td></tr>
+    <tr><td>Equatorial Guinea</td></tr>
+    <tr><td>Eritrea</td></tr>
+    <tr><td>Estonia</td></tr>
+    <tr><td>Ethiopia</td></tr>
+    <tr><td>Faroe Islands</td></tr>
+    <tr><td>Fiji</td></tr>
+    <tr><td>Finland</td></tr>
+    <tr><td>France</td></tr>
+    <tr><td>French Guiana</td></tr>
+    <tr><td>French Polynesia</td></tr>
+    <tr><td>Gabon</td></tr>
+    <tr><td>Gambia, The</td></tr>
+    <tr><td>Gaza Strip</td></tr>
+    <tr><td>Georgia</td></tr>
+    <tr><td>Germany</td></tr>
+    <tr><td>Ghana</td></tr>
+    <tr><td>Gibraltar</td></tr>
+    <tr><td>Greece</td></tr>
+    <tr><td>Greenland</td></tr>
+    <tr><td>Grenada</td></tr>
+    <tr><td>Guadeloupe</td></tr>
+    <tr><td>Guam</td></tr>
+    <tr><td>Guatemala</td></tr>
+    <tr><td>Guernsey</td></tr>
+    <tr><td>Guinea</td></tr>
+    <tr><td>Guinea-Bissau</td></tr>
+    <tr><td>Guyana</td></tr>
+    <tr><td>Haiti</td></tr>
+    <tr><td>Honduras</td></tr>
+    <tr><td>Hong Kong</td></tr>
+    <tr><td>Hungary</td></tr>
+    <tr><td>Iceland</td></tr>
+    <tr><td>India</td></tr>
+    <tr><td>Indonesia</td></tr>
+    <tr><td>Iran</td></tr>
+    <tr><td>Iraq</td></tr>
+    <tr><td>Ireland</td></tr>
+    <tr><td>Isle of Man</td></tr>
+    <tr><td>Israel</td></tr>
+    <tr><td>Italy</td></tr>
+    <tr><td>Jamaica</td></tr>
+    <tr><td>Japan</td></tr>
+    <tr><td>Jersey</td></tr>
+    <tr><td>Jordan</td></tr>
+    <tr><td>Kazakhstan</td></tr>
+    <tr><td>Kenya</td></tr>
+    <tr><td>Kiribati</td></tr>
+    <tr><td>Korea, North</td></tr>
+    <tr><td>Korea, South</td></tr>
+    <tr><td>Kuwait</td></tr>
+    <tr><td>Kyrgyzstan</td></tr>
+    <tr><td>Laos</td></tr>
+    <tr><td>Latvia</td></tr>
+    <tr><td>Lebanon</td></tr>
+    <tr><td>Lesotho</td></tr>
+    <tr><td>Liberia</td></tr>
+    <tr><td>Libya</td></tr>
+    <tr><td>Liechtenstein</td></tr>
+    <tr><td>Lithuania</td></tr>
+    <tr><td>Luxembourg</td></tr>
+    <tr><td>Macau</td></tr>
+    <tr><td>Macedonia</td></tr>
+    <tr><td>Madagascar</td></tr>
+    <tr><td>Malawi</td></tr>
+    <tr><td>Malaysia</td></tr>
+    <tr><td>Maldives</td></tr>
+    <tr><td>Mali</td></tr>
+    <tr><td>Malta</td></tr>
+    <tr><td>Marshall Islands</td></tr>
+    <tr><td>Martinique</td></tr>
+    <tr><td>Mauritania</td></tr>
+    <tr><td>Mauritius</td></tr>
+    <tr><td>Myanmar, Republic of the Union of</td></tr>
+    <tr><td>Mayotte</td></tr>
+    <tr><td>Mexico</td></tr>
+    <tr><td>Micronesia, Fed. St.</td></tr>
+    <tr><td>Moldova</td></tr>
+    <tr><td>Monaco</td></tr>
+    <tr><td>Mongolia</td></tr>
+    <tr><td>Montenegro</td></tr>
+    <tr><td>Montserrat</td></tr>
+    <tr><td>Morocco</td></tr>
+    <tr><td>Mozambique</td></tr>
+    <tr><td>N. Mariana Islands</td></tr>
+    <tr><td>Namibia</td></tr>
+    <tr><td>Nauru</td></tr>
+    <tr><td>Nepal</td></tr>
+    <tr><td>Netherlands</td></tr>
+    <tr><td>Netherlands Antilles</td></tr>
+    <tr><td>New Caledonia</td></tr>
+    <tr><td>New Zealand</td></tr>
+    <tr><td>Nicaragua</td></tr>
+    <tr><td>Niger</td></tr>
+    <tr><td>Nigeria</td></tr>
+    <tr><td>Norway</td></tr>
+    <tr><td>Oman</td></tr>
+    <tr><td>Pakistan</td></tr>
+    <tr><td>Palau</td></tr>
+    <tr><td>Panama</td></tr>
+    <tr><td>Papua New Guinea</td></tr>
+    <tr><td>Paraguay</td></tr>
+    <tr><td>Peru</td></tr>
+    <tr><td>Philippines</td></tr>
+    <tr><td>Poland</td></tr>
+    <tr><td>Portugal</td></tr>
+    <tr><td>Puerto Rico</td></tr>
+    <tr><td>Qatar</td></tr>
+    <tr><td>Reunion</td></tr>
+    <tr><td>Romania</td></tr>
+    <tr><td>Russia</td></tr>
+    <tr><td>Rwanda</td></tr>
+    <tr><td>Saint Helena</td></tr>
+    <tr><td>Saint Kitts &amp; Nevis</td></tr>
+    <tr><td>Saint Lucia</td></tr>
+    <tr><td>Saint Vincent and the Grenadines</td></tr>
+    <tr><td>Samoa</td></tr>
+    <tr><td>San Marino</td></tr>
+    <tr><td>Sao Tome &amp; Principe</td></tr>
+    <tr><td>Saudi Arabia</td></tr>
+    <tr><td>Senegal</td></tr>
+    <tr><td>Serbia</td></tr>
+    <tr><td>Seychelles</td></tr>
+    <tr><td>Sierra Leone</td></tr>
+    <tr><td>Singapore</td></tr>
+    <tr><td>Slovakia</td></tr>
+    <tr><td>Slovenia</td></tr>
+    <tr><td>Solomon Islands</td></tr>
+    <tr><td>Somalia</td></tr>
+    <tr><td>South Africa</td></tr>
+    <tr><td>Spain</td></tr>
+    <tr><td>Sri Lanka</td></tr>
+    <tr><td>St Pierre &amp; Miquelon</td></tr>
+    <tr><td>Sudan</td></tr>
+    <tr><td>Suriname</td></tr>
+    <tr><td>Swaziland</td></tr>
+    <tr><td>Sweden</td></tr>
+    <tr><td>Switzerland</td></tr>
+    <tr><td>Syria</td></tr>
+    <tr><td>Taiwan</td></tr>
+    <tr><td>Tajikistan</td></tr>
+    <tr><td>Tanzania</td></tr>
+    <tr><td>Thailand</td></tr>
+    <tr><td>Togo</td></tr>
+    <tr><td>Tonga</td></tr>
+    <tr><td>Trinidad &amp; Tobago</td></tr>
+    <tr><td>Tunisia</td></tr>
+    <tr><td>Turkey</td></tr>
+    <tr><td>Turkmenistan</td></tr>
+    <tr><td>Turks &amp; Caicos Is</td></tr>
+    <tr><td>Tuvalu</td></tr>
+    <tr><td>Uganda</td></tr>
+    <tr><td>Ukraine</td></tr>
+    <tr><td>United Arab Emirates</td></tr>
+    <tr><td>United Kingdom</td></tr>
+    <tr><td>United States</td></tr>
+    <tr><td>Uruguay</td></tr>
+    <tr><td>Uzbekistan</td></tr>
+    <tr><td>Vanuatu</td></tr>
+    <tr><td>Venezuela</td></tr>
+    <tr><td>Vietnam</td></tr>
+    <tr><td>Virgin Islands</td></tr>
+    <tr><td>Wallis and Futuna</td></tr>
+    <tr><td>West Bank</td></tr>
+    <tr><td>Western Sahara</td></tr>
+    <tr><td>Yemen</td></tr>
+    <tr><td>Zambia</td></tr>
+    <tr><td>Zimbabwe</td></tr>
+</tbody></table>
+
+<h2 id="pro-tip">Pro Tip</h2>
+<blockquote>
+  <p>Sometimes we are able to choose and drag the field from the right side menu, But the field accidentally loses during this process and in that case we will not be able to see the field &amp; we again try to add a new.
+So, Please avoid that &amp; try to find the missing field first , that may be there in the form in the bottom or top. We can just use that by drag and put it in the correct position.</p>
+</blockquote>]]></content><author><name>Himani Guleria</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Timeline Settings Description To collect country of residence data on the CRM side. Searchable fields should be added to the form and need to be mapped. Using the dropdown field in form We need to choose the form first after login to the wordpress portal side. Then edit the form. Timeline Settings After edit the form see all the existing fields first &amp; then choose the dropdownfield from the sidebar menu like this : By using drag and drop we can add the field and choose the exact position / order where we have to put in the form . Timeline Settings Timeline Settings There are few case here if we just click on the field it will reach to the bottom of the page like this: Timeline Settings And second is to drag and drop like this : Timeline Settings Then add the field related details like :title, check required if needed. Timeline Settings Then to add a list of countries which are in the CRM side as well. Firstly we need to clear the predefined ones like : Timeline Settings Then to add the countries list : Timeline Settings Timeline Settings Next is to set the search box : Timeline Settings Timeline Settings After the changes we can see this in the front end side. Timeline Settings To map this country field we can ask the website admin to map for Dynamics. Country list we are using :]]></summary></entry><entry><title type="html">How To Set Page Visibility</title><link href="http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404/" rel="alternate" type="text/html" title="How To Set Page Visibility" /><published>2022-12-09T00:00:00+05:30</published><updated>2022-12-09T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404</id><content type="html" xml:base="http://localhost:4000/nextgen/HowToSetPageVisibilityForParentAndPublicToPrevent404/"><![CDATA[<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/subpage_afterupdate.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<h2 id="description">Description</h2>
+
+<p>A subpage should not have its parent page’s visibility set to private to prevent a 404-page error. The parent page should always be set to public if we want to show its subpages for the correct permalink structure.</p>
+
+<h2 id="using-the-page-visibility">Using the Page Visibility</h2>
+
+<p>In the below screenshot if we see the parent page and subpage and their page properties. We can see in the subpages that the parent page is not set (no parent). The parent page’s visibility is set to private.</p>
 
 <p>Parent page :</p>
 
@@ -27,37 +348,48 @@
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>Subpage after some content update with out doing any ohter setting:</p>
+<p>Subpage:</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/subpage_beforeupdate.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>Before any change in subpage content if we see <em>permalink</em> and page properties section. We can see that there is no parent selected and the parent page slug is added to the link.</p>
+
+<p>If a page was previously set to private, and this time if we have made some changes (like content changes).</p>
+
+<p>After a few content updates without any other settings the subpage will look like this in the admin side:</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/subpage_URLchanges_afterupdate.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>And we update and save the subpage without parent it will cause 404 error on frontend.</p>
+<p>And we update and save the subpage without parent, it will cause 404 error on frontend.</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/subpage_afterupdate.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>So, to prevent this we need to set page visibility to public &amp; then choose the parent page from the dropdown of page Attributes (Parent) and then update/save that page with the latest changes.</p>
+<p>So, to prevent this we need to make <em>parent page</em> visibility public and then in <em>subpage</em> select parent page from dropdown of page attributes (parent) and then update/save that page with latest changes.</p>
 
-<p>In parent page we have to like :</p>
+<p>In parent page we have to do setting like:</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/parentpage_visibility_changedTopublic.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>And in subpage we need to do like :</p>
+<p>After these changes if we see the page, it will be like below screen</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/choose_parentPage.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>After if we see the page it will be working</p>
+<p>After these changes if we see the page, it will be like below screen</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/working_subpage_afterupdate.png" alt="Alt for image" />
@@ -66,7 +398,7 @@
 
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
-  <p>Make sure the visibility of parent page should always be public for its inner pages working.</p>
+  <p>Make sure the parent page’s visibility should always be public for its inner pages to work. And the parent page in the subpages should be selected appropriately.</p>
 </blockquote>]]></content><author><name>Himani Guleria</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Timeline Settings]]></summary></entry><entry><title type="html">Managing Draft &amp;amp; Unpublished Pages</title><link href="http://localhost:4000/nextgen/ManagingDraft&UnpublishedPages/" rel="alternate" type="text/html" title="Managing Draft &amp;amp; Unpublished Pages" /><published>2022-09-13T00:00:00+05:30</published><updated>2022-09-13T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/ManagingDraft&amp;UnpublishedPages</id><content type="html" xml:base="http://localhost:4000/nextgen/ManagingDraft&amp;UnpublishedPages/"><![CDATA[<figure>
     <img src="http://localhost:4000/nextgen/assets/posts/publish_draft.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Publish Settings</span></figcaption>
@@ -441,33 +773,4 @@
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/entries_detail.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Complete lead details</span></figcaption>
-</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Form Entries]]></summary></entry><entry><title type="html">Add Emoticons Testimonial</title><link href="http://localhost:4000/nextgen/AddEmoticonTestimonials/" rel="alternate" type="text/html" title="Add Emoticons Testimonial" /><published>2022-05-29T00:00:00+05:30</published><updated>2022-05-29T00:00:00+05:30</updated><id>http://localhost:4000/nextgen/AddEmoticonTestimonials</id><content type="html" xml:base="http://localhost:4000/nextgen/AddEmoticonTestimonials/"><![CDATA[<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/emoticons.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Emoticons</span></figcaption>
-</figure>
-
-<h2 id="description">Description</h2>
-
-<p>Emoticons component for testimonials has several benefits for the layout of this important content for your website. The layout is bright and aesthetically appealing but also provides an easy read format for the visitor.</p>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/emoticons_static_settings.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Emoticons Settings</span></figcaption>
-</figure>
-
-<h2 id="using-the-testimonial-component">Using the Testimonial Component</h2>
-
-<ol>
-  <li>Open a WPBakery Frontend Editor on the page you want to modify</li>
-  <li>Click the + symbol on the top menu to open the WPBakery component menu</li>
-  <li>Navigate to the section Next-Gen</li>
-  <li>Select the option Emoticons</li>
-  <li>The settings box will open out, select template ‘Static’</li>
-  <li>Click save the component will be added to the end of the page</li>
-  <li>You can drag it to the right place in your page by selecting the left corner of the row</li>
-</ol>
-
-<h2 id="pro-tip">Pro Tip</h2>
-<blockquote>
-  <p>Use the Dynamic template to add your own custom quotes, but make sure to use at least two word lines.</p>
-</blockquote>]]></content><author><name>Anna Browell</name></author><category term="Component Guides" /><summary type="html"><![CDATA[Emoticons]]></summary></entry></feed>
+</figure>]]></content><author><name>Anna Browell</name></author><category term="Wordpress Admin" /><summary type="html"><![CDATA[Form Entries]]></summary></entry></feed>

@@ -126,26 +126,17 @@
             <div class="uk-article-content">
                 
 <figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/subpage_beforeupdate.png" alt="Alt for image" />
+    <img src="http://localhost:4000/nextgen/assets/posts/subpage_afterupdate.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
 <h2 id="description">Description</h2>
 
-<p>To prevent a subpage from having 404-page error the visibility of its Parent Page should not be set as Private. The Parent Page should always be set to public if we want to show its subpage for the right permalinks structure. Please see below in the screenshots how to set the Parent Page to Public.</p>
+<p>A subpage should not have its parent page’s visibility set to private to prevent a 404-page error. The parent page should always be set to public if we want to show its subpages for the correct permalink structure.</p>
 
 <h2 id="using-the-page-visibility">Using the Page Visibility</h2>
 
-<p>In the above screenshots we want to show “Choosing the Right School Page” under the “Admissions”. So, when we will edit the Subpage (Choosing the Right School Page), we will have to select Admissions as its parent from the dropdown -&gt; Page Attributes as shown in above screenshot. And if the Parent page (Admissions) is set to Private it will not be visible in the dropdown list. In such case there will be no parent as shown below: `</p>
-
-<p>Subpage:</p>
-
-<figure>
-    <img src="http://localhost:4000/nextgen/assets/posts/subpage_beforeupdate.png" alt="Alt for image" />
-    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
-</figure>
-
-<p>If any page was set on private before, and this time if we have made some changes (like content changes).</p>
+<p>In the below screenshot if we see the parent page and subpage and their page properties. We can see in the subpages that the parent page is not set (no parent). The parent page’s visibility is set to private.</p>
 
 <p>Parent page :</p>
 
@@ -154,37 +145,48 @@
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>Subpage after some content update with out doing any ohter setting:</p>
+<p>Subpage:</p>
+
+<figure>
+    <img src="http://localhost:4000/nextgen/assets/posts/subpage_beforeupdate.png" alt="Alt for image" />
+    <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
+</figure>
+
+<p>Before any change in subpage content if we see <em>permalink</em> and page properties section. We can see that there is no parent selected and the parent page slug is added to the link.</p>
+
+<p>If a page was previously set to private, and this time if we have made some changes (like content changes).</p>
+
+<p>After a few content updates without any other settings the subpage will look like this in the admin side:</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/subpage_URLchanges_afterupdate.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>And we update and save the subpage without parent it will cause 404 error on frontend.</p>
+<p>And we update and save the subpage without parent, it will cause 404 error on frontend.</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/subpage_afterupdate.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>So, to prevent this we need to set page visibility to public &amp; then choose the parent page from the dropdown of page Attributes (Parent) and then update/save that page with the latest changes.</p>
+<p>So, to prevent this we need to make <em>parent page</em> visibility public and then in <em>subpage</em> select parent page from dropdown of page attributes (parent) and then update/save that page with latest changes.</p>
 
-<p>In parent page we have to like :</p>
+<p>In parent page we have to do setting like:</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/parentpage_visibility_changedTopublic.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>And in subpage we need to do like :</p>
+<p>After these changes if we see the page, it will be like below screen</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/choose_parentPage.png" alt="Alt for image" />
     <figcaption data-uk-grid="" class="uk-flex-right"><span class="uk-width-auto">Timeline Settings</span></figcaption>
 </figure>
 
-<p>After if we see the page it will be working</p>
+<p>After these changes if we see the page, it will be like below screen</p>
 
 <figure>
     <img src="http://localhost:4000/nextgen/assets/posts/working_subpage_afterupdate.png" alt="Alt for image" />
@@ -193,7 +195,7 @@
 
 <h2 id="pro-tip">Pro Tip</h2>
 <blockquote>
-  <p>Make sure the visibility of parent page should always be public for its inner pages working.</p>
+  <p>Make sure the parent page’s visibility should always be public for its inner pages to work. And the parent page in the subpages should be selected appropriately.</p>
 </blockquote>
 
                 <div class="share uk-hidden@m uk-text-center uk-margin-large-top"><div class="share">
@@ -239,6 +241,19 @@
     
 
     
+        <li><a href="/nextgen/HowToAddCountryOfResidenceField/">How To Add Country Of Residence</a></li>
+        
+        
+    
+
+    
+
+    
+    
+
+    
+
+    
         <li><a href="/nextgen/ManagingDraft&UnpublishedPages/">Managing Draft & Unpublished Pages</a></li>
         
         
@@ -266,19 +281,6 @@
 
     
         <li><a href="/nextgen/OptimiseImages/">Optimising Images</a></li>
-        
-        
-    
-
-    
-
-    
-    
-
-    
-
-    
-        <li><a href="/nextgen/LoggingIntoStagingEnvironments/">Logging in to Test Website</a></li>
         
         
             
