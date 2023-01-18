@@ -61,7 +61,10 @@ After the changes we can see this in the front end side.
  
 {% include image.html img="country_of_residence_search_field.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
  
-To map this country field we can ask the website admin to map for <b>Dynamics</b>.
+The very last and important step is :
+To map this country field we can ask the website admin on support email *websupport.apac@cognita.com* to map for <b>Dynamics</b> by sharing the form name in which same field is added or page URL where form is added. Only after maping we can see <b>Country Of Residence</b> field in CRM side.
+
+{% include image.html img="country_of_residence_in_crm.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
  
 Country list we are using :
 
