@@ -18,5 +18,5 @@ cta:
     title: Didn't find an answer to your question?
     subtitle: How about raising a support ticket and we will respond to you asap.
     button_text: Raise A Ticket   
-    button_url: https://shutta.co     
+    button_url: https://web-support.cognita.com    
 ---
