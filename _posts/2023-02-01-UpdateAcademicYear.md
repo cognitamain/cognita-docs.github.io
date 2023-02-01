@@ -4,6 +4,7 @@ title: Update Academic Year
 categories: [Wordpress Admin]
 author: Himani
 ---
+
 {% include image.html img="academic-year.png" style="wide" lightbox="false" alt="Alt for image" caption="Blog Articles" %}
 
 
@@ -11,14 +12,14 @@ author: Himani
 
 The academic year needs to be updated annually by deleting and adding academic years in webform side.
 
-{% include image.html img="academic-year-edit.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
+{% include image.html img="academic-year-edit-options.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
 
 
 
 ## Updating Academic Year 
 
 1. Click Edit Form
-   {% include image.html img="academic-year-edit-options.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
+   {% include image.html img="academic-year-edit.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
 2. Find and click on ACADEMIC YEAR section
 3. In the right side of General tab click on Edit Choices
    {% include image.html img="academic-year-edit-choiced.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
