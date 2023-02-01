@@ -5,8 +5,6 @@ categories: [Wordpress Admin]
 author: Himani Guleria
 ---
 
-*Note : This option will be available after 21 JAN 2023 !*
-
 {% include image.html img="country_of_residence_search_field.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
  
  
