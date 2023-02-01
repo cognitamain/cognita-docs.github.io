@@ -18,11 +18,13 @@ The academic year needs to be updated annually by deleting and adding academic y
 
 ## Updating Academic Year 
 
-1. Click Edit Form {% include image.html img="academic-year-edit.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
-2. Find and click on ACADEMIC YEAR section
-3. In the right side of General tab click on Edit Choices {% include image.html img="academic-year-edit-choiced.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
-4. Change or add new Label and Value in section
-5. Update the Form
+- Click Edit Form 
+   {% include image.html img="academic-year-edit.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
+- Find and click on ACADEMIC YEAR section
+- In the right side of General tab click on Edit Choices 
+   {% include image.html img="academic-year-edit-choiced.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
+- Change or add new Label and Value in section
+- Update the Form
 
 
 ## Pro Tip
