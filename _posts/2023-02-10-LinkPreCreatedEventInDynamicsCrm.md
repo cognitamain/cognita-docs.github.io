@@ -22,7 +22,7 @@ On landing page form submission to get registered or submitted user records in p
    {% include image.html img="add_eventid_inform.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
 - Duplicate or use hidden field and add Parameter Name: <b>sag_eventid</b>
 - Update the form
-- Use https://web-support.cognita.com/ to reachout to website developers to map the sag_eventid field with CRM.
+- <a href="https://web-support.cognita.com">Raise A Ticket </a>to to website developers to map the sag_eventid field with CRM.
 
 ## Create Events Landing page
 
