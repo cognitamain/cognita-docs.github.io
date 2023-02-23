@@ -4,6 +4,7 @@ title: Manage Position In Our Teachers Slider
 categories: [Wordpress Admin]
 author: Himani
 ---
+
 {% include image.html img="set-first-position-teacher-in-slider.png" style="wide" lightbox="false" alt="Alt for image" caption="Add Teacher" %}
 
 
@@ -28,3 +29,6 @@ Whenever the teacher is to be shown in the slider by category and position. Or t
 7. To set the teacher to be the first position in the slider, set the order to '0'. And similarly by increasing the marks of next teacher we can set next position of teacher in slider.
 
 {% include image.html img="order-edit-with-category.png" style="wide" lightbox="false" alt="Alt for image" caption="Add a Teacher" %}
+
+## Pro Tip
+> To move further right-left of teacher position in slider we should check current order of teachers and then others within teacher category.
