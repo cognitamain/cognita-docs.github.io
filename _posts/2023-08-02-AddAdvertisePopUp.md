@@ -2,9 +2,9 @@
 layout: post
 title: Advertisement Pop Up Component
 categories: [Component Guides]
-author: Anna Browell
+author: Vijay
 ---
-{% include image.html img="AdvertisementPopUp.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline" %}
+{% include image.html img="AdvertisementPopUp.png" style="wide" lightbox="false" alt="Alt for image"  %}
 
 
 ## Description
@@ -14,10 +14,10 @@ Pop up component allows you to add popup banner on any page, you can add banner 
 If you want to show only image and add link on that image then you have to select "Hide content section" Yes then you can add link for image and content section will be hidden from banner.
 
 
-{% include image.html img="AdvertisementPopUp-settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
+{% include image.html img="AdvertisementPopUp-settings.png" style="wide" lightbox="false" alt="Alt for image"  %}
 
 
-{% include image.html img="AdvertisementPopUp-settings1.png" style="wide" lightbox="false" alt="Alt for image" caption="Timeline Settings" %}
+{% include image.html img="AdvertisementPopUp-settings1.png" style="wide" lightbox="false" alt="Alt for image"  %}
 
 
 ## Using the Pop Up Component
