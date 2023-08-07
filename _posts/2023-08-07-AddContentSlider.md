@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Add a Content slider
+title: Add A Content Slider
 categories: [Component Guides]
 author: Himani, Created By Meenakshi
 ---
@@ -22,7 +22,7 @@ A Content slider is a great component to use on a webpage to display a images wi
 3. Navigate to the section Next-Gen
 4. Find the "Content Slider" and click the option
 5. In the content slider setting open the toggle button add your slide information.
-   {% include image.html img="duplicate-delete-slide.png" style="wide" lightbox="false" alt="Alt for image" caption="Add Edit slider options" %}
+   {% include image.html img="add-edit-content-slider-data.png" style="wide" lightbox="false" alt="Alt for image" caption="Add Edit slider options" %}
 6. Click the x symbol to delete slide or row
 7. Click on the box for the duplicate slide and then edit accordingly.
    {% include image.html img="duplicate-delete-slide.png" style="wide" lightbox="false" alt="Alt for image" caption="Add Edit slider options" %}
