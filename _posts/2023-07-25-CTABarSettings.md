@@ -2,7 +2,7 @@
 layout: post
 title: CTA Menu Bar Settings
 categories: [Wordpress Admin]
-author: Himani
+author: Vijay
 ---
 
 {% include image.html img="cta_bar.png" style="wide" lightbox="false" alt="Alt for image" caption="cta_bar" %}

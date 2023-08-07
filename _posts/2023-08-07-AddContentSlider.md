@@ -2,7 +2,7 @@
 layout: post
 title: Add A Content Slider
 categories: [Component Guides]
-author: Himani, Created By Meenakshi
+author: Meenakshi
 ---
 {% include image.html img="content-slider.png" style="wide" lightbox="false" alt="Alt for image" caption="Content Slider" %}
 
@@ -17,18 +17,18 @@ A Content slider is a great component to use on a webpage to display a images wi
 ## Using the Contnet Slider Component
 
 
-1. Navigate to page edit and open a WPBakery Backend Editor on the page you want to modify
-2. Click the + symbol on the top menu to open the component menu
-3. Navigate to the section Next-Gen
-4. Find the "Content Slider" and click the option
-5. In the content slider setting open the toggle button add your slide information.
+. Navigate to page edit and open a WPBakery Backend Editor on the page you want to modify
+. Click the + symbol on the top menu to open the component menu
+. Navigate to the section Next-Gen
+. Find the "Content Slider" and click the option
+. In the content slider setting open the toggle button add your slide information.
    {% include image.html img="add-edit-content-slider-data.png" style="wide" lightbox="false" alt="Alt for image" caption="Add Edit slider options" %}
-6. Click the x symbol to delete slide or row
-7. Click on the box for the duplicate slide and then edit accordingly.
+. Click the x symbol to delete slide or row
+. Click on the box for the duplicate slide and then edit accordingly.
    {% include image.html img="duplicate-delete-slide.png" style="wide" lightbox="false" alt="Alt for image" caption="Add Edit slider options" %}
-8. Click on "Slider Setting" tab and set the sliders.
+. Click on "Slider Setting" tab and set the sliders.
    {% include image.html img="slider-settings.png" style="wide" lightbox="false" alt="Alt for image" caption="Add Edit slider options" %}
-9. Save and update the page to see slider in front end side.
+. Save and update the page to see slider in front end side.
    {% include image.html img="content-slider.png" style="wide" lightbox="false" alt="Alt for image" caption="Content Slider" %}
    
 

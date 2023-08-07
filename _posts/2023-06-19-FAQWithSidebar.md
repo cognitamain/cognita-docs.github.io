@@ -2,7 +2,7 @@
 layout: post
 title: FAQ With Sidebar
 categories: [Component Guides]
-author: Himani. Feature created by Vijay
+author: Vijay
 ---
 
 {% include image.html img="Category_wise_faq.png" style="wide" lightbox="false" alt="FAQ category Wise" caption="Category Wise Faq" %}

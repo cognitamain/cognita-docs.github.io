@@ -2,7 +2,7 @@
 layout: post
 title: Update Academic Year
 categories: [Wordpress Admin]
-author: Himani
+author: Vijay
 ---
 
 {% include image.html img="academic-year.png" style="wide" lightbox="false" alt="Alt for image" caption="Blog Articles" %}

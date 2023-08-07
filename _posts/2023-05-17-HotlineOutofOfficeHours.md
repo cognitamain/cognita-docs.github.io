@@ -2,7 +2,7 @@
 layout: post
 title: Hotline Out of Office Hours
 categories: [Wordpress Admin]
-author: Himani. Feature created by Vijay
+author: Vijay
 ---
 
 {% include image.html img="Hotline_popup.png" style="wide" lightbox="false" alt="Alt for image" caption="Hotline Popup" %}
