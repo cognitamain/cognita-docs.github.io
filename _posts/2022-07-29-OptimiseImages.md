@@ -33,14 +33,14 @@ Below we have included a chart of best practices for image dimensions for common
 
 |Component|Apx. Dimension pixels|
 |-------|-------|
-|Hero Image|1600x800|
-|Lead form BG|1600x800|
-|CTA BG|1600x800|
-|Blogs|800x500|
-|Cards|500x300|
-|Teachers|500x400|
-|Testimonials|500x400|
-|Menu Thumbnails|160x100|
+|Hero Image|Width:1600, height:800|
+|Lead form BG|Width:1600,height:800|
+|CTA BG|Width:1600,height:800|
+|Blogs|Width:800,height:500|
+|Cards|Width:500,height:300|
+|Teachers|Width:500,height:400|
+|Testimonials|Width:500,height:400|
+|Menu Thumbnails|Width:160,height:100|
 
 
 ## File type
