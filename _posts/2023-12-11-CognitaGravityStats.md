@@ -4,7 +4,7 @@ title: Cognita Gravity Stats
 categories: [Wordpress Admin]
 author: Vijay Kumar
 ---
-{% include image.html img="cognita_gravity_stats.png" style="wide" lightbox="false" alt="Alt for image" caption="Blog Articles" %}
+{% include image.html img="cognita_gravity_stats.png" style="wide" lightbox="false" alt="Alt for image" caption="Cognita Gravity Stats" %}
 
 
 ## Description
@@ -13,7 +13,7 @@ Website receives traffic from various paid and unpaid sources, this visualizatio
 
 
 
-{% include image.html img="cognita_gravity_stats_setting.png" style="wide" lightbox="false" alt="Alt for image" caption="New Post" %}
+{% include image.html img="cognita_gravity_stats_setting.png" style="wide" lightbox="false" alt="Alt for image" caption="Cognita Gravity Stats Post" %}
 
 
 ## Data Summarised View
@@ -30,6 +30,9 @@ Website receives traffic from various paid and unpaid sources, this visualizatio
 3. After this click on submit button
 4. You will then see the PIE chart of the UTM source
 5. Click on one of the sources then you will see the PIE chart of the campaign
+
+
+
 
 
 

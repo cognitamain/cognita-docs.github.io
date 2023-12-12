@@ -4,15 +4,15 @@ title: Add Data Layer
 categories: [Component Guides]
 author: Vijay Kumar
 ---
-{% include image.html img="adddatalayer.png" style="wide" lightbox="false" alt="Alt for image" caption="Blog Highlights" %}
+{% include image.html img="adddatalayer.png" style="wide" lightbox="false" alt="Alt for image" caption="Data Layer Highlights" %}
 
 
 ## Description
 
 Integrating the data layer seamlessly after form submission, enhancing the user experience and empowering our system with valuable insights.
 
-{% include image.html img="dtalayersetting.png" style="wide" lightbox="false" alt="Alt for image" caption="CTA Setup" %}
-{% include image.html img="datalayersetting1.png" style="wide" lightbox="false" alt="Alt for image" caption="CTA Setup" %}
+{% include image.html img="dtalayersetting.png" style="wide" lightbox="false" alt="Alt for image" caption="Data Layer Setup" %}
+{% include image.html img="datalayersetting1.png" style="wide" lightbox="false" alt="Alt for image" caption="Data Layer Setup" %}
 
 
 ## Using Gravity Form Data Layer  Component
