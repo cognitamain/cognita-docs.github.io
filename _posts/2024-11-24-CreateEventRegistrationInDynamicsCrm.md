@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Create a form submission for event registration in Dynamics CRM Marketing.
+title: Event Registration In Dynamics CRM Marketing.
 categories: [Wordpress Admin]
 author: Cognita
 ---
