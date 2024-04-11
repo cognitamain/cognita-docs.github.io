@@ -58,7 +58,7 @@ This functionality is useful for generating new events upon form submission in t
 - After successful form submission we can see the record in CRM Marketing Events section
    {% include image.html img="records_in_crm.png" style="wide" lightbox="false" alt="Alt for image" caption="records_in_crm" %}
  &
-   {% include image.html img="user_side_single_campus_eventscrm_side_events_created.jpg" style="wide" lightbox="false" alt="Alt for image" caption="event_verification_onCRM" %}
+   {% include image.html img="crm_side_events_created.jpg" style="wide" lightbox="false" alt="Alt for image" caption="event_verification_onCRM" %}
    
    
 
