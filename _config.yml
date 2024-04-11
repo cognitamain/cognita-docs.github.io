@@ -45,7 +45,7 @@ github_username:    somename
 
 # Default footer image settings
 footer:
-    copyright:      Made by <a href="https://shutta.co/">Shutta</a>.
+    copyright:      By Cognita.
 
 # Disqus comments shortname, requires Disqus account https://disqus.com/
 disqus:
