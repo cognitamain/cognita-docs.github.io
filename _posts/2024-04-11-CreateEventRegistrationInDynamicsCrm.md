@@ -37,7 +37,7 @@ This functionality is useful for generating new events upon form submission in t
 ## Link Pre-Created Event
 - In "Event Name" enter the same event name as created/exists in CRM Marketing side.
    {% include image.html img="crm_event_name.png" style="wide" lightbox="false" alt="Alt for image" caption="Get CRM Event Name" %}
-- TFill in all the event details and save the changes.
+- Fill in all the event details and save the changes.
    {% include image.html img="add_crm_event_name.jpg" style="wide" lightbox="false" alt="Alt for image" caption="add_crm_event_name" %}
 
 ## Verify Events On Form
