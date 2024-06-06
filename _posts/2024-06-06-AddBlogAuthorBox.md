@@ -13,9 +13,10 @@ The Blog Author box provides details about the individual responsible for creati
 
 ## Adding authors in admin dashboard
 
+{% include image.html img="AddBlogAuthor1.jpg" style="wide" lightbox="false" alt="How to add Authors" caption="How to add Authorsx" %}
+
 {% include image.html img="AddBlogAuthos.jpg" style="wide" lightbox="false" alt="How to add Authors" caption="How to add Authors" %}
 
-{% include image.html img="AddBlogAuthor1.jpg" style="wide" lightbox="false" alt="How to add Authors" caption="How to add Authorsx" %}
 
 1. Go to admin dashboard
 2. Under the section ‘Posts’ click on author
